@@ -1,0 +1,2533 @@
+ Exercice 14 - Noélie BOTTERO, YIMINA
+       
+        Exercice 14 partie 2 xslt exercice 3 : extraire 3 patrons de tailles différentes dans le titre
+            
+        Patron 1 NOM-DET-ADP-DET 
+            paraît peu probable à 
+                                    jugé trop proche de 
+                                    plaide non coupable de 
+                                    cherchez pas querelle à 
+                                    fait trop chaud pour 
+                                    huit fois supérieur à 
+                                    
+        
+            
+        Patron 2 VERB-ADP 
+            suivre en
+                        assigné en
+                        mis en
+                        continue de
+                        dépasse de
+                        ouverte après
+                        refusée dans
+                        retire pour
+                        condamnés à
+                        apparue après
+                        meurt à
+                        plie pour
+                        attaquée en
+                        renonce à
+                        l’avenir de
+                        finir avec
+                        refuse de
+                        compter de
+                        rentrez en
+                        enrôlés de
+                        leader de
+                        rentrer en
+                        misent sur
+                        permise par
+                        claquemure à
+                        avoir à
+                        préparent à
+                        d’apprendre depuis
+                        restons en
+                        préparent à
+                        défi depuis
+                        comparées à
+                        répond à
+                        profitent de
+                        appelés à
+                        donner malgré
+                        L’art de
+                        restant chez
+                        employant à
+                        continue de
+                        accusé de
+                        saisir pour
+                        mis à
+                        expliquée en
+                        maintenues malgré
+                        considérée comme
+                        condamné à
+                        condamné à
+                        mobilisés contre
+                        commence à
+                        tués par
+                        permet de
+                        s’évader de
+                        s’agit de
+                        condamné à
+                        condamné à
+                        paralysée par
+                        rédigées par
+                        d’Alger à
+                        barricade pour
+                        réduits à
+                        répondre à
+                        interdit pendant
+                        comprises par
+                        rester à
+                        lutter contre
+                        fuient à
+                        circulant en
+                        sorties de
+                        ouverte sur
+                        reporté à
+                        cherche à
+                        supporté de
+                        tentés de
+                        rentrer chez
+                        requis contre
+                        représenter en
+                        demanderaient à
+                        mise en
+                        tente de
+                        perpétrée dans
+                        foyer de
+                        acceptant de
+                        participer à
+                        l’armée en
+                        Jouer en
+                        circulait dès
+                        menacés de
+                        appelées à
+                        rester chez
+                        prévaloir sur
+                        multiplient pour
+                        tentent de
+                        profiter de
+                        aider à
+                        céder à
+                        risquent de
+                        prépare à
+                        légèreté à
+                        fallait pour
+                        donnent de
+                        bouleversée avec
+                        profite de
+                        controverse sur
+                        utilisées à
+                        s’effondrent à
+                        retrouvée de
+                        minima sur
+                        prépare à
+                        engagés dans
+                        prouvée de
+                        frappée par
+                        exigent en
+                        concentrer sur
+                        vécue comme
+                        assure à
+                        illimités en
+                        Suivez en
+                        passe à
+                        arrivé à
+                        passés par
+                        vient de
+                        déplace à
+                        touché en
+                        démis de
+                        envisagées en
+                        lutter contre
+                        touchée par
+                        acceptée par
+                        révoqué pour
+                        condamné à
+                        testée avec
+                        contraintes de
+                        sortir dehors
+                        passer à
+                        dévoile de
+                        survécu à
+                        racontés sur
+                        prépare à
+                        suspecté de
+                        confinées dans
+                        convertit en
+                        savoir sur
+                        mis sous
+                        est de
+                        demande à
+                        touché par
+                        remonté jusqu’à
+                        journée de
+                        relancée contre
+                        condamné à
+                        reste dans
+                        cultiver sans
+                        sortir de
+                        fermées contre
+                        condamné en
+                        cherche à
+                        peser dans
+                        jugé devant
+                        téléphone à
+                        tardé à
+                        lutter contre
+                        incarcérée en
+                        n’appuie sur
+                        succède à
+                        s’alourdit en
+                        avance en
+                        troublés par
+                        d’écrire dans
+                        prendre de
+                        paralysé depuis
+                        sortir pour
+                        préparer à
+                        bousculé par
+                        bloqués à
+                        a de
+                        s’éloigne de
+                        lutter contre
+                        porte à
+                        validé par
+                        contraint de
+                        s’excuser après
+                        mort à
+                        ouvre en
+                        cherche à
+                        voir pendant
+                        continuer à
+                        appelés à
+                        tourné à
+                        débordent dans
+                        lutter contre
+                        inégalité d’accès
+                        confiné dans
+                        d’humanité dans
+                        télé à
+                        tente de
+                        mer pour
+                        d’immunité chez
+                        plébiscitée par
+                        trouve dans
+                        partir de
+                        atteints par
+                        arrêtés par
+                        préparez à
+                        contournées par
+                        autorisée dans
+                        bondit de
+                        record sur
+                        qu’annoncée en
+                        déconfiner sans
+                        centrée sur
+                        chamboulée par
+                        mobilisés en
+                        céder à
+                        enregistrés dans
+                        monte sur
+                        autorité de
+                        réévalué à
+                        mis en
+                        intégrées à
+                        contraint par
+                        pose en
+                        d’accéder à
+                        réagi à
+                        considérés comme
+                        saisit de
+                        séries pour
+                        lutter contre
+                        annoncée de
+                        cherche à
+                        prévu en
+                        continue à
+                        livrer malgré
+                        entendue par
+                        connu en
+                        demander de
+                        vivons en
+                        vécu dans
+                        imprimer en
+                        alerte sur
+                        l’insécurité dans
+                        ressortir de
+                        expliqués en
+                        lutte contre
+                        connaissais en
+                        s’accumulent sur
+                        tente de
+                        pousse à
+                        interroger sur
+                        masqués dans
+                        terrassé par
+                        modifiées en
+                        l’insurgé de
+                        vis-à-vis de
+                        d’aventure pour
+                        hospitalisées en
+                        Bienvenue en
+                        réunies pour
+                        prolongée de
+                        suspendu à
+                        étranglé par
+                        mis à
+                        séduire sans
+                        d’accord pour
+                        infectée par
+                        passer sous
+                        murmurent à
+                        rester à
+                        viendront qu’après
+                        freinée par
+                        compte en
+                        sous-estimée dans
+                        patronne de
+                        fini pour
+                        commencé à
+                        circuler en
+                        d’argent de
+                        Cessez de
+                        l’économie entre
+                        est de
+                        passer à
+                        portent en
+                        propose à
+                        compagne de
+                        bloqué en
+                        fera sans
+                        succombent à
+                        mis en
+                        validées par
+                        distancient de
+                        met en
+                        lire derrière
+                        finissent par
+                        meurent chez
+                        d’Europe à
+                        mise sur
+                        confronté à
+                        ralentit en
+                        sommé de
+                        envoyés à
+                        vivant chez
+                        ravagé par
+                        fragilisés par
+                        retrouve sur
+                        lancées dans
+                        tuées par
+                        accompagnera pendant
+                        vivre après
+                        s’organisent pour
+                        évités en
+                        d’euros pour
+                        chose d’assez
+                        diagnostiqués dans
+                        forcée à
+                        accélérée pour
+                        voulue par
+                        transformée en
+                        restés en
+                        trouvent à
+                        boire dehors
+                        vêtir en
+                        lire pendant
+                        mourir de
+                        piégés par
+                        confinés en
+                        Confinés en
+                        continue de
+                        relayé par
+                        devoir de
+                        continuent à
+                        manquer de
+                        s’opposent à
+                        organisé sous
+                        ordonne à
+                        s’inquiètent pour
+                        dit depuis
+                        estimé à
+                        ruent en
+                        vu par
+                        s’attend à
+                        accusé de
+                        consulte pour
+                        craint de
+                        bousculée par
+                        mettre sous
+                        appelées à
+                        rester chez
+                        risque de
+                        coincés en
+                        fournir en
+                        saignés à
+                        multiplient contre
+                        l’effet de
+                        finalisé de
+                        repoussé en
+                        endeuillé avec
+                        poursuit à
+                        venus en
+                        attendu en
+                        demande à
+                        dénoncée par
+                        variés selon
+                        popularité en
+                        positionner comme
+                        réapparaît en
+                        replays pour
+                        ambitieuses pour
+                        présumés de
+                        a à
+                        parti de
+                        enclenchée à
+                        passe sous
+                        préparent à
+                        collectifs en
+                        permet de
+                        suspendu en
+                        difficile de
+                        accusés de
+                        empruntés en
+                        s’apparentent à
+                        bloqués à
+                        reprennent contre
+                        interpellées en
+                        change pour
+                        revenir à
+                        découverte en
+                        foyer de
+                        s’installe dans
+                        envie de
+                        m’attraper pour
+                        appelés à
+                        jugé à
+                        polluée par
+                        bloqués en
+                        effectués en
+                        attendus en
+                        entraide dans
+                        confinées de
+                        arrêté en
+                        condamnée à
+                        autorisés à
+                        rétablies en
+                        s’allie à
+                        prépare à
+                        condamnée pour
+                        placées en
+                        familiarisent avec
+                        identifiés depuis
+                        a entre
+                        retrouve dans
+                        cherche à
+                        s’inspirer de
+                        convertie à
+                        suspendu à
+                        garanti par
+                        promet de
+                        accru de
+                        mortes en
+                        reste de
+                        déplacer dans
+                        cherchent à
+                        “restez chez
+                        bloquée par
+                        placées en
+                        éloignés de
+                        faite en
+                        s’émanciper pour
+                        mettre en
+                        rouvrent après
+                        fort pour
+                        dégrade en
+                        s’éloignent pour
+                        appellent à
+                        d’économies dans
+                        passe de
+                        appellent à
+                        dégradée pendant
+                        repart en
+                        savoir avant
+                        s’exercer de
+                        condamné pour
+                        jazz de
+                        ruée sur
+                        contaminé par
+                        précise pour
+                        encadré en
+                        continué à
+                        travaillent sur
+                        fournies par
+                        acquis depuis
+                        cuisiner chez
+                        livreront à
+                        responsable en
+                        autorisés à
+                        rogner sur
+                        Prost à
+                        ralentit en
+                        commence à
+                        douter de
+                        épuisés par
+                        partir en
+                        amarrée à
+                        finir avec
+                        mort sous
+                        résout à
+                        déconfiné en
+                        fini par
+                        dîner chez
+                        propose de
+                        chargé de
+                        manifestent à
+                        savoir pour
+                        entraide sur
+                        comptabilisés en
+                        confiné avec
+                        incité à
+                        changer de
+                        punitives contre
+                        voir sur
+                        dopées par
+                        Refuser de
+                        prendre en
+                        laisse à
+                        tentent de
+                        sait de
+                        nuit à
+                        expliquer à
+                        Uber à
+                        menacés par
+                        promet de
+                        perturbé par
+                        appelés à
+                        renforcé de
+                        reprennent en
+                        l’été en
+                        visent à
+                        manifestent contre
+                        imposé par
+                        ajourné après
+                        partir de
+                        allié contre
+                        touché après
+                        mène à
+                        arriver de
+                        menti pour
+                        prépare à
+                        a sans
+                        résumée à
+                        réfugiés à
+                        trompé sur
+                        savoir sur
+                        détecté de
+                        plane sur
+                        Fragilisée par
+                        envisage de
+                        assigné en
+                        menace de
+                        doubler à
+                        accumulée contre
+                        controversée de
+                        poursuit en
+                        gaz par
+                        relaxé par
+                        Blanquer en
+                        séparés durant
+                        fait de
+                        partir en
+                        manqué de
+                        contribuent à
+                        respecté à
+                        mort depuis
+                        s’écrase sur
+                        préparée à
+                        prépare à
+                        préparent à
+                        candidate pour
+                        tente de
+                        parti de
+                        paniquée par
+                        demande à
+                        démissionnent pour
+                        accusée de
+                        s’engage à
+                        suspendue jusqu’à
+                        Paris comme
+                        visé par
+                        sorti de
+                        réappris à
+                        démarrent dans
+                        attaqué en
+                        remboursé de
+                        su dès
+                        élu avec
+                        condamné à
+                        ciblé par
+                        attisé par
+                        rester dans
+                        d’ici à
+                        gagnent à
+                        Kocher à
+                        venues de
+                        atterri dans
+                        congé après
+                        pèse sur
+                        occupée en
+                        s’opposer à
+                        relance avec
+                        mis en
+                        relancée en
+                        qu’Alexandra de
+                        subis pendant
+                        rallie à
+                        Ndiaye sur
+                        inculpé par
+                        demande à
+                        cesser de
+                        critiqué pour
+                        lutter contre
+                        annoncée dans
+                        s’engage à
+                        échoué sur
+                        mise en
+                        placée sous
+                        condamnée en
+                        multiplient dans
+                        mise en
+                        apprendre à
+                        vivre avec
+                        mis en
+                        cherche à
+                        menace de
+                        renonce à
+                        assister à
+                        raconté par
+                        Al-Bachir à
+                        tirent dans
+                        mis en
+                        mise en
+                        placée en
+                        nommés à
+                        poursuit à
+                        échouent à
+                        recourir à
+                        annulés pour
+                        chahutée de
+                        mène à
+                        recommandé de
+                        lutter contre
+                        enjeu de
+                        placés en
+                        mutilée par
+                        enchaîne à
+                        fait dans
+                        levée en
+                        d’électricité en
+                        sortir de
+                        parvient à
+                        apprendre à
+                        pénalisées par
+                        Ciblé par
+                        l’abattoir en
+                        suspendu après
+                        revenez de
+                        touchée par
+                        perturbés par
+                        enquête sur
+                        Dopé par
+                        tente d’accroître
+                        mis en
+                        tentent de
+                        examinées par
+                        transmis de
+                        déposée contre
+                        intérêt à
+                        ressurgit dans
+                        d’électricité depuis
+                        reprennent dans
+                        Eloignée de
+                        erronés de
+                        m’intéressait dans
+                        réuni pour
+                        détournée vers
+                        bataillent à
+                        Lescure à
+                        pouvoir sans
+                        mort à
+                        augmenté de
+                        infligée à
+                        mis en
+                        mis en
+                        renonce à
+                        passe par
+                        réinvente en
+                        arrivés en
+                        agitée en
+                        soumis à
+                        déclenchée à
+                        placées en
+                        permettre de
+                        battu pour
+                        approuvent par
+                        triomphe à
+                        cesser de
+                        d’ici à
+                        incarcéré en
+                        fini par
+                        J’écris pour
+                        tuées en
+                        attendues en
+                        s’impose à
+                        contribue à
+                        conteuse hors
+                        préféré à
+                        infligée à
+                        enfermée dans
+                        déférés devant
+                        visé par
+                        élu avec
+                        poussée vers
+                        démissionnent pour
+                        fermées depuis
+                        choisit de
+                        grandit pour
+                        d’échapper à
+                        modernise pour
+                        arrive en
+                        sacré sur
+                        frappe à
+                        contre-attaque devant
+                        gardés de
+                        connectés pour
+                        perdus en
+                        angoissant à
+                        bat de
+                        renonce à
+                        représenter à
+                        tendu entre
+                        pavée de
+                        condamné à
+                        sorti de
+                        mobilisés contre
+                        mis en
+                        déçu par
+                        dégage pour
+                        profite de
+                        programmé entre
+                        dressée par
+                        menée par
+                        renoncer à
+                        interpellées en
+                        filmé dans
+                        tergiverse sur
+                        redonne de
+                        suspendu à
+                        Pris à
+                        promet de
+                        accusé d’abus
+                        démantelé dans
+                        divise sur
+                        tendance à
+                        disparaître de
+                        chassé par
+                        pousse à
+                        faire de
+                        fabriqué par
+                        généralisé dans
+                        d’ici à
+                        empêtré dans
+                        couvre-feu à
+                        annoncé par
+                        accepté par
+                        mettre en
+                        réduire de
+                        tuée par
+                        accusée de
+                        rompt avec
+                        faire pendant
+                        bat pour
+                        d’années de
+                        dépassés par
+                        durcies à
+                        aller jusqu’à
+                        condamné à
+                        avorté de
+                        partir de
+                        resserre sur
+                        pendue après
+                        placés en
+                        visée par
+                        repris par
+                        fauchée à
+                        écopent de
+                        rejetés par
+                        tente de
+                        d’or pour
+                        d’Aubagne à
+                        mis en
+                        L’Opéra de
+                        confronté à
+                        épinglées pour
+                        controversé de
+                        adopté par
+                        partir de
+                        entreprend de
+                        déclenché de
+                        régressé en
+                        autorisé à
+                        manifestent à
+                        vont à
+                        divisée par
+                        mis en
+                        entendus par
+                        élève à
+                        licencié de
+                        accusé en
+                        déjoué de
+                        révélée par
+                        font de
+                        suspect vers
+                        refuse de
+                        répondu à
+                        inédit pour
+                        Globe en
+                        liée à
+                        assigné à
+                        tués dans
+                        visé par
+                        passé entre
+                        réfléchit à
+                        condamné à
+                        tentés par
+                        écrite à
+                        assurent pour
+                        rapprocher de
+                        augmenté dès
+                        est de
+                        compte en
+                        terminée pour
+                        suivez en
+                        s’inquiètent de
+                        Autorité de
+                        mourir comme
+                        doublé à
+                        fermer par
+                        d’enquête sur
+                        examinée à
+                        provoquée par
+                        tiraillés entre
+                        rester en
+                        revient en
+                        Coronavirus chez
+                        rend dans
+                        hiver en
+                        maternité pour
+                        visé par
+                        profité de
+                        menacés par
+                        mis en
+                        s’intensifie entre
+                        poursuivi dans
+                        rassemblées en
+                        refusons de
+                        condamné à
+                        contraints de
+                        avorté de
+                        épinglé pour
+                        Tollé après
+                        résumés en
+                        préparent à
+                        blessé par
+                        pris en
+                        compliqués pour
+                        c’est comme
+                        appelées à
+                        choisir en
+                        ralenties par
+                        aligné avec
+                        décerné à
+                        élu pour
+                        juger de
+                        clé de
+                        gagne pour
+                        engagés pour
+                        schéma pour
+                        attachés à
+                        enfermé à
+                        recroquevillé sur
+                        réussi à
+                        reçues sur
+                        encourus par
+                        transféré en
+                        licencié par
+                        controversé sur
+                        adopté par
+                        fait de
+                        l’épidémie dans
+                        visé par
+                        quasi sans
+                        étendu en
+                        tente de
+                        peser à
+                        perpétré à
+                        jugé dans
+                        augmenté malgré
+                        règne sur
+                        néonazis sur
+                        arrêté à
+                        menacée de
+                        faire avec
+                        accepte de
+                        comptent sur
+                        adapté à
+                        abandonnée depuis
+                        d’images de
+                        prises par
+                        d’exercer pour
+                        multipliées par
+                        observé par
+                        jettent de
+                        penche sur
+                        tué par
+                        confiée à
+                        reviendrait à
+                        Poursuivi en
+                        frappés par
+                        vacciner à
+                        manifestent à
+                        embourbé dans
+                        traversée par
+                        vaccinera sans
+                        absent pour
+                        partagées sur
+                        d’aventure à
+                        découvrir depuis
+                        manifestent pour
+                        d’humanité de
+                        Mourir sur
+                        s’engage à
+                        usés par
+                        marquée par
+                        visés par
+                        classée sans
+                        disparues en
+                        s’exilent par
+                        interpellés à
+                        classée sans
+                        immolée par
+                        passe en
+                        continue de
+                        Roland-Garros en
+                        manifestent contre
+                        augmenter à
+                        confirmée par
+                        Critiquée pour
+                        fermée en
+                        contraint de
+                        est de
+                        mort en
+                        collectifs sordides
+                        envisage de
+                        vu comme
+                        record pour
+                        tente de
+                        positionner en
+                        hospitalisées en
+                        paralysée par
+                        alerte sur
+                        Accusé de
+                        rassemblées en
+                        croirait dans
+                        interdit de
+                        marqué par
+                        m’entraînais à
+                        paie pour
+                        s’attendre à
+                        tué par
+                        vivent de
+                        versés à
+                        s’engage à
+                        réduire à
+                        d’ici à
+                        enlevé dans
+                        reporte à
+                        secouée par
+                        appelle à
+                        réprimée à
+                        s’organisent pour
+                        étouffons sous
+                        attaqué par
+                        dit de
+                        Miné par
+                        retrouvé après
+                        autorisé de
+                        partir de
+                        meurtrie par
+                        apprendre à
+                        jugés pour
+                        basculent dans
+                        débordés par
+                        entrés dans
+                        assisté à
+                        entrent en
+                        décapité dans
+                        saisi de
+                        comprendre à
+                        interdit de
+                        annulée par
+                        mettre en
+                        préparer à
+                        Age à
+                        soupçonné de
+                        échoue à
+                        dissoute en
+                        double de
+                        sait de
+                        retournée contre
+                        continuent de
+                        vidéos pour
+                        chiffrées sur
+                        géant à
+                        manqué de
+                        conçu par
+                        faire de
+                        rapproche de
+                        repart en
+                        s’enfonce dans
+                        oscille entre
+                        emprunter pour
+                        couvre-feu en
+                        pèsent sur
+                        poussé à
+                        assiste à
+                        lutter contre
+                        nommée à
+                        mise en
+                        entrer en
+                        convoqué devant
+                        d’électricité en
+                        écroués après
+                        organisé par
+                        débarrasser de
+                        d’ici à
+                        dispersés par
+                        condamné dans
+                        voient en
+                        basculer jusqu’à
+                        passer sous
+                        collectées par
+                        décerné à
+                        déplacer sur
+                        mis en
+                        parler avec
+                        pris entre
+                        alerte sur
+                        arrivée en
+                        modifiée pendant
+                        autorisées par
+                        blessé par
+                        mort à
+                        morte pour
+                        matraque avec
+                        confinée jusqu’à
+                        partir de
+                        évacuées à
+                        demander à
+                        obsédés par
+                        ouvert malgré
+                        vivant à
+                        l’étranger à
+                        votent pour
+                        renvoyée à
+                        corses de
+                        passeront en
+                        explosé en
+                        agressée pour
+                        savoir sur
+                        écartée de
+                        propulse en
+                        mort dans
+                        tournera à
+                        négocier avec
+                        s’insurgent contre
+                        soupçonnées de
+                        arrêtées en
+                        renouvelée de
+                        permis de
+                        hérite de
+                        s’apprête à
+                        rentrer en
+                        craignez de
+                        truqué à
+                        sert à
+                        contredite par
+                        citées à
+                        aboutit à
+                        entendu dans
+                        attrait pour
+                        s’oppose à
+                        présente contre
+                        accueillent pour
+                        boosté par
+                        rassemblés à
+                        tondue par
+                        expulsés vers
+                        donnent de
+                        l’air en
+                        continuer à
+                        travailler à
+                        tuées dans
+                        joue avec
+                        chair à
+                        reste en
+                        soupçonné de
+                        perturbé par
+                        mis en
+                        élu à
+                        dégrade en
+                        prend à
+                        placé en
+                        renvoyé devant
+                        d’assises de
+                        s’inquiètent de
+                        s’accorde pour
+                        manifestent pour
+                        saisi par
+                        L’avenir de
+                        joue dans
+                        accumulée depuis
+                        détenus par
+                        poursuivent dans
+                        opposée à
+                        ’UE à
+                        surtaxer de
+                        d’être derrière
+                        incité à
+                        intervenir dans
+                        viennent de
+                        condamné à
+                        multiplie par
+                        couvre-feu en
+                        tape sur
+                        mise en
+                        mise sur
+                        éprouvée par
+                        Secoués par
+                        appelle à
+                        voter contre
+                        éclatent dans
+                        divisent sur
+                        oblige à
+                        ouverte après
+                        prisée par
+                        rouvrent en
+                        requise contre
+                        renvoyé à
+                        précipité dans
+                        d’emplois chez
+                        symbolique de
+                        condamnée à
+                        tenir entre
+                        parler de
+                        reconfinées en
+                        revenus en
+                        renaît à
+                        autorisé à
+                        débarquer en
+                        écrits par
+                        revanchard de
+                        dissoute après
+                        identifiées comme
+                        soumis à
+                        remise en
+                        instillent en
+                        citoyenne pour
+                        annulée pour
+                        sacré à
+                        perdu pour
+                        poursuit à
+                        clos dès
+                        Traoré à
+                        terrasse en
+                        met en
+                        analysées en
+                        pèsent sur
+                        bloqués par
+                        accusé de
+                        revenir en
+                        déboulonnées en
+                        demande à
+                        déchargé de
+                        veut de
+                        transformer en
+                        bloqué en
+                        appelle à
+                        battu à
+                        mise sur
+                        reste à
+                        retrouvé en
+                        condamnée pour
+                        dépêchés dans
+                        lutter contre
+                        accusés de
+                        clos dès
+                        retrouvent à
+                        s’ancrent dans
+                        posent après
+                        Twitter de
+                        s’apprête à
+                        lancer en
+                        mis en
+                        annulé par
+                        mis en
+                        remis en
+                        tenter de
+                        restaurée à
+                        adaptés à
+                        s’envoler dans
+                        reste en
+                        a à
+                        ravagés par
+                        connue pour
+                        paralysés par
+                        effondrée depuis
+                        Bastié sur
+                        change à
+                        condamné à
+                        condamnés à
+                        enquête sur
+                        donner de
+                        demande à
+                        renoncer à
+                        raciale de
+                        céder à
+                        appellent à
+                        savoir sur
+                        placé en
+                        retrouvent pour
+                        tenter de
+                        s’impose dans
+                        condamnés à
+                        participé à
+                        antipouvoir en
+                        tranchée avant
+                        condamné à
+                        continue de
+                        s’accélérer dans
+                        gagné en
+                        Cohabiter avec
+                        Propriété de
+                        placé en
+                        tué sur
+                        lourd dans
+                        sait de
+                        tué dans
+                        remise en
+                        testé positif
+                        refusée pour
+                        mer par
+                        débarqués en
+                        accord sur
+                        réélu à
+                        élaboré pour
+                        met en
+                        détenu dans
+                        réélue à
+                        met en
+                        savoir sur
+                        appellent à
+                        promise par
+                        s’accumulent pendant
+                        touchée de
+                        passée sur
+                        d’euros pour
+                        ouverte contre
+                        commencé à
+                        mobilisés contre
+                        Jugé pour
+                        relaxé en
+                        placés dans
+                        partir de
+                        met en
+                        Plombée par
+                        usées à
+                        interrogent sur
+                        classée sans
+                        poursuit entre
+                        Infiltrée par
+                        mises en
+                        récupérés par
+                        musclée en
+                        succéder à
+                        d’enquête sur
+                        bondi depuis
+                        abandonnées par
+                        entré dans
+                        mer de
+                        d’Etat pour
+                        remet à
+                        donner de
+                        approuvé par
+                        Accident sur
+                        d’été à
+                        indemnisé par
+                        c’est hors
+                        snobées par
+                        démissionne de
+                        mourir après
+                        adoptée par
+                        d’attente pour
+                        condamné à
+                        indemnisé pour
+                        restaurants en
+                        attend de
+                        prévoit de
+                        supprimer jusqu’à
+                        remplacée par
+                        critiqué à
+                        porte pour
+                        sportives pour
+                        prendre de
+                        bruyants dans
+                        agir de
+                        profiter de
+                        mettait à
+                        vont dans
+                        renforcé à
+                        annulée en
+                        confirmé par
+                        sépare de
+                        fragilisés par
+                        posté sur
+                        trompés par
+                        contraint de
+                        changer à
+                        visé par
+                        s’installe comme
+                        généralisée dès
+                        vient de
+                        multiplient dans
+                        autorisés à
+                        procéder à
+                        pistes pour
+                        est sur
+                        infiltré en
+                        soutenue par
+                        utilisé par
+                        brisée par
+                        palestinienne dans
+                        tente de
+                        visé par
+                        fragilisés par
+                        rentrée de
+                        tué par
+                        Pinot en
+                        contée par
+                        Pinot dans
+                        d’assassinat par
+                        accusés dans
+                        accusé de
+                        manquer de
+                        bloqué par
+                        l’emporte à
+                        retoqué par
+                        payée pendant
+                        censuré en
+                        urgent de
+                        entrés dans
+                        changer pour
+                        recrutent en
+                        discuter pendant
+                        prononce par
+                        basculent en
+                        concrètes pour
+                        mis en
+                        d’argent pour
+                        restaurants à
+                        cherchent à
+                        controversée de
+                        siéger à
+                        Plongée dans
+                        révélé à
+                        accueillis dans
+                        accusé de
+                        harcelées à
+                        ravagé par
+                        tentent de
+                        sortir de
+                        présenté à
+                        élus pour
+                        exilée à
+                        licenciées en
+                        fermées depuis
+                        revenir à
+                        reconnue comme
+                        entrera en
+                        condamné à
+                        tente de
+                        blâmés pour
+                        augmente dans
+                        poussé à
+                        proposé de
+                        confirmée pour
+                        nommé à
+                        visé par
+                        cessé de
+                        séparés depuis
+                        d’être à
+                        ouverte après
+                        mise à
+                        attendu en
+                        lire avec
+                        doublé de
+                        choisi pour
+                        votent pour
+                        s’impose en
+                        éprouvés par
+                        condamnés pour
+                        manifestent à
+                        apôtre de
+                        s’abattent sur
+                        tend entre
+                        occupés en
+                        considérés comme
+                        revient sur
+                        mis hors
+                        visant à
+                        dépende de
+                        restaurants à
+                        repoussée à
+                        ouverte après
+                        reçues sur
+                        invités à
+                        rester à
+                        imposées dans
+                        tué à
+                        d’otages de
+                        réagit à
+                        inquiets de
+                        retardé par
+                        rattrapé par
+                        menacée par
+                        étendu à
+                        dévasté par
+                        met en
+                        absents en
+                        inquiétant pour
+                        souffle sur
+                        s’immuniser contre
+                        placé sur
+                        s’invite à
+                        étouffait dans
+                        cités par
+                        marquée par
+                        accepte de
+                        perdue après
+                        placée en
+                        s’exprime sur
+                        s’affranchit de
+                        classés en
+                        touchés par
+                        Ziadé sur
+                        d’ici à
+                        mise sur
+                        multiplient en
+                        torpillés par
+                        restrictives à
+                        Arrêtez de
+                        prépare à
+                        hécatombe chez
+                        occupées par
+                        lorgne sur
+                        attendu sur
+                        tente de
+                        Hospitalisé à
+                        mise en
+                        condamné en
+                        controversée pour
+                        manifestent à
+                        s’unir sur
+                        afflue chez
+                        classés en
+                        exécuté en
+                        Critiqué par
+                        l’accuse de
+                        Tania de
+                        contestées en
+                        met en
+                        maudit de
+                        gagnée par
+                        demande à
+                        fantasque de
+                        hospitalisé à
+                        réinventer avant
+                        contraint de
+                        Partis par
+                        détenus en
+                        condamné à
+                        soumettre à
+                        promis par
+                        requises contre
+                        condamnés à
+                        rare dans
+                        placé en
+                        ensanglantés de
+                        blessés dans
+                        marquée par
+                        validé par
+                        Autorité de
+                        prend enfin
+                        déterminée à
+                        tente de
+                        porté sur
+                        employé sur
+                        inadapté pour
+                        condamné à
+                        joue à
+                        d’enquête sur
+                        ravagé par
+                        lancer dans
+                        bouleversée de
+                        mis en
+                        d’enfer à
+                        préparer à
+                        Touchée par
+                        victimes de
+                        annoncée sur
+                        partir de
+                        forcé de
+                        appartenant à
+                        tenir sans
+                        continuent de
+                        leader de
+                        hospitalisé dans
+                        inculpé pour
+                        poursuivent en
+                        créé par
+                        avoir avec
+                        liés à
+                        éliminé par
+                        arrêté à
+                        condamné pour
+                        remis par
+                        remplacé par
+                        Pénalisé par
+                        augmenté de
+                        controversée en
+                        paralysés par
+                        condamné à
+                        veillera à
+                        mobilisent après
+                        Génération.s dans
+                        perturbé après
+                        condamné à
+                        abriterait de
+                        plongé dans
+                        unanimes après
+                        retirées à
+                        Rétrogradé en
+                        refuse de
+                        rêvé de
+                        Virée dans
+                        cassé en
+                        d’accueillir jusqu’à
+                        retournent en
+                        signe à
+                        appellent à
+                        chahuté par
+                        confrontée à
+                        continue comme
+                        renonce à
+                        s’inquiètent de
+                        repris par
+                        maintenus sur
+                        Accusé d’abus
+                        tente de
+                        sait de
+                        comptés avec
+                        condamné à
+                        menti sur
+                        brisé de
+                        mobilisent pour
+                        partagé entre
+                        défend de
+                        perquisitionné dans
+                        accusé de
+                        d’entreprises dans
+                        bombardée après
+                        changé de
+                        réclamé à
+                        tentent de
+                        accusé de
+                        autorisé par
+                        intervient contre
+                        géant de
+                        réussi à
+                        continuent de
+                        font sans
+                        déclenchée dans
+                        l’idée de
+                        mort à
+                        déféré devant
+                        échoué sur
+                        bute sur
+                        s’établit à
+                        alerte sur
+                        secouées par
+                        L’espoir de
+                        tuées par
+                        déclenchée dans
+                        restent en
+                        retrouvée en
+                        partir de
+                        compliquée pour
+                        fichées pour
+                        joue de
+                        s’organisent à
+                        délicat de
+                        choquée par
+                        nommé à
+                        s’impose à
+                        rompt avec
+                        arrêté pour
+                        reste dans
+                        château de
+                        mis en
+                        écroué pour
+                        écrasé par
+                        proposé par
+                        posez sur
+                        s’attaquent à
+                        occulté par
+                        contraignantes pour
+                        dégrade en
+                        condamnés à
+                        ratée contre
+                        c’est à
+                        déclenchée dans
+                        succédera à
+                        obliger à
+                        l’Italie sur
+                        d’urgence à
+                        adoptées en
+                        arrêté pour
+                        s’allie à
+                        ouvrir en
+                        plonge dans
+                        multiplient dans
+                        convoquée par
+                        liés à
+                        mise à
+                        soigner dans
+                        défilent contre
+                        généralise en
+                        recensés en
+                        instrumentalisé pour
+                        applis à
+                        emporter pour
+                        poursuivent en
+                        venus de
+                        resurgissent en
+                        traumatisés par
+                        rejettée par
+                        percer dans
+                        alcoolisée avec
+                        gravir pour
+                        prévus en
+                        annulés à
+                        remis en
+                        s’imposer en
+                        russe contre
+                        risqué pour
+                        accepté de
+                        vis pour
+                        Nestlé après
+                        condamné à
+                        racistes envers
+                        poursuit après
+                        endommagés à
+                        secouée par
+                        venir à
+                        passent en
+                        rivés sur
+                        oubliés dans
+                        mobilisés avec
+                        Guéant à
+                        rattrapées par
+                        Privé de
+                        incarcéré à
+                        survenir à
+                        repousse à
+                        Hospitalisé à
+                        qui pour
+                        retrouvé sur
+                        s’attend à
+                        limitées à
+                        Audition-clé de
+                        mis en
+                        tenter de
+                        rebelle contre
+                        reprise par
+                        contraint à
+                        unit de
+                        perturbé sur
+                        permettre à
+                        restera perturbé
+                        s’alourdit en
+                        portée par
+                        s’attend à
+                        s’affrontent sur
+                        manifesté contre
+                        rétifs à
+                        commencé à
+                        quasi-simultanées contre
+                        Apprenez à
+                        réussie pour
+                        saisit de
+                        blessé par
+                        plaide pour
+                        multipliées par
+                        déployées pour
+                        continuent de
+                        tués dans
+                        commencé dans
+                        surveiller en
+                        relancé par
+                        venu de
+                        meurt en
+                        brut de
+                        s’introduisent dans
+                        manifestent pour
+                        ancré en
+                        suspendue à
+                        partir de
+                        manifestent à
+                        faire de
+                        a en
+                        l’espoir d’être
+                        d’incendie à
+                        japonais à
+                        conquiert de
+                        dépassé par
+                        assigné à
+                        baissé de
+                        interdite par
+                        répandue sur
+                        lancé pour
+                        abattu par
+                        renoncer à
+                        renversé par
+                        revenus de
+                        grimpent sur
+                        perturbé par
+                        attaquée en
+                        propage en
+                        envoyées à
+                        Portrait de
+                        intéressé de
+                        mis en
+                        incendies en
+                        Rouler à
+                        condamné pour
+                        s’attendre à
+                        importés de
+                        manifestent à
+                        Luca de
+                        croît dans
+                        continue de
+                        revanche de
+                        requis contre
+                        accusé de
+                        fermé en
+                        créés dans
+                        retrouvé en
+                        volé en
+                        entrée dans
+                        portant par
+                        métamorphosé par
+                        caché sur
+                        manifesté à
+                        contrastées selon
+                        réussi de
+                        figure de
+                        fait de
+                        disent de
+                        apparu en
+                        attaqué en
+                        d’électricité dans
+                        payés par
+                        opposés à
+                        prête à
+                        ensevelie sous
+                        venir de
+                        ver de
+                        reconduit à
+                        s’apprête à
+                        retire de
+                        publiait depuis
+                        submergés par
+                        observées dans
+                        utilisé comme
+                        interdit en
+                        interdit à
+                        élargie à
+                        mises en
+                        formés pour
+                        découvertes dans
+                        prêtes à
+                        expliqué à
+                        rapatrié de
+                        verser à
+                        mis en
+                        confrontée à
+                        relaxé en
+                        confirmé en
+                        attirés par
+                        d’alerte sur
+                        lance dans
+                        Jouer à
+                        jugé pour
+                        mis en
+                        jugé pour
+                        mer de
+                        cadre de
+                        soupçonné de
+                        menée à
+                        libéré après
+                        passés en
+                        mise en
+                        fait de
+                        appelle à
+                        tué par
+                        pointent de
+                        rejeté par
+                        lié à
+                        classées sans
+                        s’attend à
+                        désempli pour
+                        journée de
+                        obsédé par
+                        a de
+                        incendié en
+                        jugé en
+                        servent à
+                        annulées en
+                        vu par
+                        impliqué dans
+                        évacués dans
+                        parle de
+                        touchait comme
+                        d’investir dans
+                        visée par
+                        policier à
+                        perturbé à
+                        évacué par
+                        choisi pour
+                        proposé par
+                        dépassés par
+                        hachée pour
+                        compliqué à
+                        interpellé en
+                        salariés pour
+                        unis dans
+                        pollués par
+                        samedi par
+                        emprisonnée en
+                        s’invite dans
+                        visée par
+                        Licencié sur
+                        aider à
+                        prennent à
+                        rêver de
+                        supprimés chez
+                        élue pour
+                        incendie dans
+                        s’apprête à
+                        rester dans
+                        condamnée pour
+                        s’apprête à
+                        soupçonnés de
+                        mis en
+                        découvert à
+                        était de
+                        faire de
+                        chutent de
+                        Tollé dans
+                        disparaissent à
+                        continuent à
+                        peser sur
+                        permis à
+                        s’ouvrent en
+                        Poursuivi en
+                        protégée par
+                        remplacé par
+                        bloqué par
+                        montent en
+                        mis à
+                        saisie dans
+                        enrichi de
+                        autorisée par
+                        lancée en
+                        d’enquête pour
+                        restaurants à
+                        cartonne dans
+                        condamné à
+                        renvoyé en
+                        citoyenne pour
+                        mise en
+                        requise pour
+                        refuse de
+                        condamné à
+                        visant à
+                        citoyenne pour
+                        changer en
+                        Avia contre
+                        retoquée par
+                        désigné comme
+                        invalidé par
+                        permet de
+                        affrontées dans
+                        persistent en
+                        interpellés après
+                        fait comme
+                        vidée de
+                        renouer avec
+                        Empêchée de
+                        marcher en
+                        fixé à
+                        mise sur
+                        condamnée par
+                        a de
+                        tenu pour
+                        éclipsé par
+                        mitigé pour
+                        condamné à
+                        permette de
+                        inédit sur
+                        apporte à
+                        Suivez en
+                        d’enquête sur
+                        atteints par
+                        difficulté pour
+                        condamné pour
+                        mise en
+                        causée par
+                        déclarés dans
+                        bougé pendant
+                        polonaise avant
+                        réélu avec
+                        relevée en
+                        jugée pour
+                        envisage de
+                        examinée à
+                        passé à
+                        remonte sur
+                        met en
+                        abattu en
+                        attribuée à
+                        retrouvée en
+                        tué en
+                        plaident pour
+                        implantés en
+                        redoublé de
+                        alertent sur
+                        infectées dans
+                        attendus après
+                        connu pour
+                        attend pour
+                        capturés après
+                        confirmée par
+                        secoué par
+                        condamné à
+                        blessées après
+                        heurte à
+                        Piñera sous
+                        reportées à
+                        éborgné par
+                        mis en
+                        visé par
+                        rouvrent entre
+                        poignardées à
+                        considérée comme
+                        recouvert de
+                        mobiliser pour
+                        levée dans
+                        commencé à
+                        empiète sans
+                        prolonge pour
+                        tué par
+                        faire de
+                        fini pour
+                        mis en
+                        critiquée de
+                        revient à
+                        suivez en
+                        d’enquête sur
+                        coupée en
+                        proposé par
+                        s’engagent contre
+                        rouvert après
+                        dirige vers
+                        visés par
+                        reportée à
+                        Castaner sur
+                        employés par
+                        poussé vers
+                        assisté à
+                        datant de
+                        peinent à
+                        résumé en
+                        revenir à
+                        assouplies à
+                        partir de
+                        affectés par
+                        interdite à
+                        d’économies à
+                        engagé dans
+                        acquis d’Omar
+                        menace de
+                        revoir de
+                        allégé entre
+                        mercredi sur
+                        confrontés à
+                        Aujourd’hui comme
+                        érigé en
+                        mise en
+                        liées à
+                        défend à
+                        foyer de
+                        averties en
+                        testé positif
+                        mort à
+                        condamné à
+                        d’arrêter de
+                        commises par
+                        mis en
+                        essayer de
+                        comprendre avant
+                        fondées sur
+                        s’inquiètent de
+                        lutter contre
+                        refuse de
+                        menées par
+                        morte après
+                        repart après
+                        s’activent pour
+                        entraînent dans
+                        tempête contre
+                        reprennent après
+                        visé par
+                        comédienne de
+                        peinent à
+                        attendu en
+                        laissent en
+                        retrouve sur
+                        fait en
+                        bienvenus chez
+                        disparue dans
+                        revient devant
+                        rebondit en
+                        Autant en
+                        permis de
+                        alloués par
+                        produits sous
+                        redécouvrir en
+                        mort à
+                        continue de
+                        s’accélérer dans
+                        Traiter de
+                        poursuit en
+                        vécues dès
+                        passe de
+                        épiés par
+                        condamné à
+                        maintient à
+                        assigné en
+                        joignent à
+                        visé par
+                        condamné en
+                        traitées dès
+                        l’avenir de
+                        menées en
+                        contribué à
+                        soumis à
+                        mis en
+                        requis contre
+                        décerné à
+                        jugé pour
+                        appelle à
+                        approuvée par
+                        s’arrêtera en
+                        met à
+                        prépare à
+                        appellent à
+                        travaillait chez
+                        liées à
+                        d’astéroïde sur
+                        frappée par
+                        contractera de
+                        préparent à
+                        controversé de
+                        vue comme
+                        percée dans
+                        tentent de
+                        obtient de
+                        prolifèrent à
+                        l’arrivée de
+                        s’impose dans
+                        retraite pour
+                        acquiert de
+                        s’identifiant à
+                        né de
+                        arrêtés en
+                        inédit pour
+                        commencera à
+                        menée à
+                        vaccinés en
+                        prépare à
+                        accord sur
+                        sentir en
+                        préférés de
+                        d’électricité après
+                        préparent à
+                        d’année sous
+                        s’accordent pour
+                        approuvent en
+                        Induit par
+                        tombe en
+                        arrivé à
+                        entrer dans
+                        touchée par
+                        tués en
+                        tués dans
+                        étendu à
+                        condamné à
+                        commis par
+                        s’invite à
+                        condamnée à
+                        dialoguez en
+                        visé depuis
+                        continuera à
+                        condamné pour
+                        contribué à
+                        éclipsées en
+                        retard dans
+                        accouché dans
+                        joue en
+                        reparti à
+                        peser dans
+                        promet de
+                        condamnée à
+                        condamné à
+                        Dialoguez en
+                        condamné à
+                        sanctionné par
+                        sonné pour
+                        suspendue par
+                        profité de
+                        conclut par
+                        condamné à
+                        vu par
+                        surreprésentés en
+                        accusé de
+                        participer à
+                        mêle à
+                        mise en
+                        s’accorde sur
+                        reconfinés en
+                        jugé pour
+                        deuxième de
+                        Entrée en
+                        arrivant en
+                        mis en
+                        placé en
+                        détecté en
+                        confirmé en
+                        placés en
+                        projette dans
+                        légende de
+                        suivis par
+                        espionnait pour
+                        saisi après
+                        refuse de
+                        ciblés par
+                        lutter contre
+                        supprimé pour
+                        établie avec
+                        condamné pour
+                        anesthésiée par
+                        mis en
+                        mobilisent contre
+                        élargit par
+                        PSG-Basaksehir en
+                        historique pour
+                        impliquées dans
+                        Mis en
+                        mise en
+                        interdite dans
+                        détecté en
+                        profile contre
+                        signé entre
+                        découvrir avant
+                        controversé sur
+                        tirés pour
+                        rongé par
+                        ramenées en
+                        tuée par
+                        controversées de
+                        remettant en
+                        jugé pour
+                        condamné pour
+                        requis contre
+                        annoncé par
+                        suspendu pour
+                        abandonnées dans
+                        chanteuse pour
+                        Secouée par
+                        sortir de
+                        croire pour
+                        menacé avec
+                        réfugie sur
+                        percée en
+                        critiquée par
+                        récupéré par
+                        raté de
+                        meurt sur
+                        argumentés pour
+                        autorisé en
+                        licencié de
+                        sait sur
+                        tués dans
+                        morte à
+                        essaie de
+                        collège-lycée hors
+                        fermé à
+                        démissionner pour
+                        lutter contre
+                        dialoguez en
+                        retrouver dans
+                        condamné pour
+                        danger de
+                        prononcera sur
+                        entré dans
+                        laisse à
+                        militent pour
+                        appelle à
+                        Usclat de
+                        déplacer pour
+                        liés à
+                        renoue avec
+                        préparent à
+                        oublié de
+                        rêvais de
+                        protester contre
+                        abandonnés par
+                        dialoguez en
+                        citoyenne sur
+                        savoir sur
+                        augmentée par
+                        contaminés dans
+                        menacé après
+                        résumés en
+                        replonge dans
+                        poursuit entre
+                        accusée de
+                        subsistent entre
+                        rêvent de
+                        appelle à
+                        contente de
+                        surfer sur
+                        lancent dans
+                        juré de
+                        
+        
+            
+        Patron 3 NOM-VERB-DET 
+            Turquie place les 
+                                coronavirus dope les 
+                                l’épidémie dépasse les 
+                                migrants déclenche la 
+                                corbillards font la 
+                                vies confinées d’un 
+                                coronavirus promet un 
+                                gouvernement impose le 
+                                juristes dépose un 
+                                déchets cristallise les 
+                                coronavirus accroît la 
+                                confinement avive les 
+                                sentiment d’avoir une 
+                                Français rêvent d’un 
+                                messages présentant la 
+                                bilan dépasse les 
+                                misère pousse les 
+                                justice ordonne la 
+                                Poste réduit sa 
+                                écoles pose la 
+                                lesbienne rappelle la 
+                                secrétaire d’Etat Brune 
+                                entreprises changent leur 
+                                Grand-Est envisage une 
+                                association saisit le 
+                                gouvernement évoque un 
+                                moto impliquant la 
+                                justice reconnaît une 
+                                renseignement s’inquiètent d’un 
+                                confinement renforce le 
+                                l’épidémie sert la 
+                                santé annonce un 
+                                ados vivent le 
+                                CNIL appelle le 
+                                masques faits maison 
+                                gouvernement envisage la 
+                                confinement provoque une 
+                                l’épidémie approche 9 000 
+                                recherche détaille sa 
+                                Maire prévoit une 
+                                coronavirus reflète la 
+                                coronavirus prive les 
+                                gens connaissaient cette 
+                                pègre bénéficie d’une 
+                                coronavirus remet la 
+                                coronavirus bouleverse le 
+                                tennis craint une 
+                                coiffeurs reprennent leurs 
+                                justice confirme le 
+                                football fait son 
+                                coronavirus génère un 
+                                décompte macabre d’une 
+                                syndicats retrouvent les 
+                                coronavirus consacre la 
+                                tests entrave le 
+                                régions sonnent la 
+                                gouvernement supprime sa 
+                                confinement ravive les 
+                                santé rend un 
+                                morts prendra plusieurs 
+                                gens baissent la 
+                                Airbnb licencie un 
+                                crise relance la 
+                                Medef fait son 
+                                vent diffusent le 
+                                cassation dénonce la 
+                                régime traque ses 
+                                piétons rendent la 
+                                Sénat adopte le 
+                                parlementaires adoptent un 
+                                patiente ayant perdu 
+                                l’odorat présente une 
+                                gouvernement prévoit la 
+                                justice valide la 
+                                Sénat adopte une 
+                                coronavirus relance le 
+                                doute fait une 
+                                mea culpa d’Emmanuel 
+                                Commission propose une 
+                                gouvernement envisage un 
+                                investigations concernant une 
+                                reports troublent les 
+                                Parlement renverse le 
+                                Soudan tente une 
+                                congé suivant la 
+                                couronne redoutent la 
+                                l’instruction rejette la 
+                                vin participent d’un 
+                                climat esquissent leur 
+                                personnalités signent une 
+                                code caché le 
+                                Sénat veut une 
+                                Porte décode le 
+                                avocats font la 
+                                l’exécutif revoit sa 
+                                L’Assemblée adopte une 
+                                Panama rejoignent la 
+                                livre reste un 
+                                Portugal retrouve un 
+                                trumpisme fait la 
+                                gouvernement annonce la 
+                                Turquie amorce un 
+                                défense plaide la 
+                                l’ordonnance autorisant la 
+                                l’explosif fait plusieurs 
+                                parquet requiert la 
+                                caisse dope la 
+                                vague ravage la 
+                                police interrompt une 
+                                chercheurs créent une 
+                                porno préparent une 
+                                famille demande la 
+                                parquet confirme la 
+                                santé préconise une 
+                                recherche délicate d’un 
+                                cœur lancent leur 
+                                rapport pointe la 
+                                catholiques réclament la 
+                                décret déclenche la 
+                                bailleurs jouent le 
+                                Reims confirme la 
+                                Arméniens brûlent leurs 
+                                restaurateurs demandent une 
+                                rebelles signent un 
+                                justice convoque le 
+                                commerçants craignent le 
+                                discount dépensent leur 
+                                non l’emporte d’une 
+                                manifestants contestent les 
+                                sport comporte le 
+                                justice obtient la 
+                                SNCF ouvre la 
+                                gouvernement suspend la 
+                                Bleus entament leur 
+                                justice dénie le 
+                                commerçants jouent leur 
+                                gouvernement appelle les 
+                                architectes pensent les 
+                                ministre expose son 
+                                Brexit reste un 
+                                nombres montrant la 
+                                salariés dénoncent le 
+                                justice rejette la 
+                                majorité dépose un 
+                                drogue prend la 
+                                qu’a dit le 
+                                l’économie prévoit un 
+                                Mélenchon privilégie la 
+                                maires enfilent leur 
+                                pompiers dénonce la 
+                                automobiliste fuyant un 
+                                justice reconnaît la 
+                                vaccin produisent une 
+                                astrophysiciens dévoilent la 
+                                citoyens obligent leur 
+                                journalistes tirent les 
+                                pays rétablissent un 
+                                comptes étrille la 
+                                régions rétablissent un 
+                                justice ouvre la 
+                                juges ordonnent une 
+                                Macron remanie son 
+                                victimes oubliées d’un 
+                                préfet délivre le 
+                                étude relance la 
+                                remaniement ravive les 
+                                consommateurs saisissent le 
+                                gouvernement étend les 
+                                restaurant étoilé La 
+                                FBI utilise une 
+                                historiens dénoncent un 
+                                République n’admet aucune 
+                                parquet demande un 
+                                gouvernement annonce 1 000 
+                                situation exige une 
+                                scientifiques s’injectent leur 
+                                régions signent un 
+                                ONG saisissent la 
+                                astéroïdes portent le 
+                                commission refuse la 
+                                rétorsion ciblant les 
+                                ONG s’alarment d’un 
+                                scientifiques jugent la 
+                                cassation confirme la 
+                                masque toute la 
+                                droits s’inquiète d’une 
+                                eurodéputés dénoncent un 
+                                quotidiens font leur 
+                                gouvernement envisage une 
+                                régions rétablissent un 
+                                républicains cimentent leur 
+                                l’immigration vise les 
+                                Macron annonce une 
+                                théorie complotiste QAnon 
+                                CNIL sanctionne le 
+                                Mairie prend le 
+                                ferme connaissent un 
+                                Turquie prolonge une 
+                                préfets d’étendre le 
+                                justice inflige un 
+                                CNIL lance une 
+                                police disperse la 
+                                Hongrie referme ses 
+                                McDonald’s poursuit son 
+                                Pérou enregistre son 
+                                arrêté interdisant le 
+                                talibans ouvre la 
+                                drogue sanctionnée d’une 
+                                peuple veut la 
+                                Juventus limoge son 
+                                contaminations relance la 
+                                Poste valorise son 
+                                pandémie frappe une 
+                                Ô vit ses 
+                                gouvernement défend la 
+                                migrants traversant la 
+                                semaine visant un 
+                                opposants gardent les 
+                                personnes quittent leurs 
+                                gens fuient les 
+                                police appelle la 
+                                Français remportent le 
+                                voisins passent leur 
+                                Australiens manifestent leur 
+                                Miku poursuit une 
+                                incendies seront notre 
+                                streetwear fait le 
+                                l’on donne la 
+                                CGT-Energie revendique une 
+                                l’autopsie évoque une 
+                                grèves affectent les 
+                                grévistes entament une 
+                                migrants attend son 
+                                Parlement adopte la 
+                                justice met un 
+                                SNCF devient une 
+                                l’administration reconnaît sa 
+                                députés relance la 
+                                cinéma reste un 
+                                propreté poursuit son 
+                                naissances marque le 
+                                incendies rend les 
+                                d’opposition embarrasse le 
+                                climat rejette les 
+                                commandité l’assassinat d’un 
+                                syndicats contestent le 
+                                justice ordonne la 
+                                Guyane demande le 
+                                chances d’obtenir un 
+                                cours d’une attaque 
+                                monde dépasse les 
+                                cause obtiennent un 
+                                climat adoptent leur 
+                                chercheuses dénoncent le 
+                                night-clubs dressent les 
+                                manifestants demandent la 
+                                Louvre rouvrira ses 
+                                défense demande la 
+                                justice oblige le 
+                                crise percute la 
+                                mort suspecte d’une 
+                                d’ingénieurs bouleversent leurs 
+                                étudiants mettent leur 
+                                députés pointent les 
+                                Réunion vise une 
+                                pêche bloque les 
+                                fêtes place le 
+                                nettoyage demandent leur 
+                                godillots montent d’un 
+                                confinement diffère la 
+                                sexe dénoncent les 
+                                ONG d’assister les 
+                                spectacle plaide sa 
+                                colis contraint la 
+                                retraites évoque la 
+                                gouvernement annonce un 
+                                experts dénonçant son 
+                                d’« accélérer la 
+                                moyen d’explorer la 
+                                consigne fait son 
+                                rupture prévue le 
+                                élus réclament la 
+                                
