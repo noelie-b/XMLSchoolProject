@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bibliographie SYSTEM "bibliographie.dtd">
+
+<bibliographie>
+    <livre>
+        <titre>Bêtes, Hommes et Dieux</titre>
+        <auteur>Ferdynand Ossendowski</auteur>
+        <tomes><nb_pages>308</nb_pages></tomes>
+        <edition>
+            <editeur>Editions Phébus</editeur>
+            <lieu_edition>Paris</lieu_edition>
+            <lieu_impression>Paris</lieu_impression>
+            <ISBN>978-2-7529-0620-5</ISBN>
+        </edition>
+    </livre>
+    
+    <article>
+        <titre>Google launches Cloud AI Platform Pipelines in beta to simplify machine learning development</titre>
+        <auteur>Kyle Wiggers</auteur>
+        <auteur>Michel Leiris</auteur>
+        <references>
+            <nom_journal>The Machine Making sense of AI</nom_journal>
+            <num_pages>4-9</num_pages>
+            <annee_pub>2020</annee_pub>
+            <num_journal>3</num_journal>
+        </references>
+    </article>
+</bibliographie>

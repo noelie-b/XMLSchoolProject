@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dictionnaire universel, contenant généralement tous les mots françois tant vieux que modernes, et les termes de toutes les sciences et des arts, 1690</title>
+            <author> Furetière, Antoine (1619-1688)</author>
+            <respStmt>
+               <resp>Document annoté par</resp>
+               <name>Noélie BOTTERO (INALCO) 22001455</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>A. et R. Leers (La Haye)</edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>Bibliothèque nationale de France</distributor>
+            <date>2007</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>France</country>
+                  <settlement>Paris</settlement>
+                  <institution>Bibliothèque nationale de France</institution>
+                  <repository>Archives de la linguistique Française</repository>
+                  <altIdentifier>
+                     <repository>Gallica</repository>
+                     <idno type="cote">NUMM-50614</idno>
+                  </altIdentifier>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+  <text>
+      <body>
+         <div n="tome_A-D">
+            <div n="A">
+               <div n="ANA">
+                  
+                  <entry xml:lang="fr" xml:id="Anathematiser">
+                     <form><orth>ANATHEMATISER</orth></form>
+                     <pc>.</pc>
+                     <gramGrp><pos expand="verbe">v.</pos><subc expand="actif">act.</subc></gramGrp>
+                     <def>Excommunier, retrancher de la societé de l'Eglise.</def>
+                  </entry>
+                  
+                  <entry xml:lang="fr" xml:id="Anatheme">
+                     <form><orth>ANATHEME</orth></form>
+                     <pc>.</pc>
+                     <gramGrp><pos expand="substantif">s.</pos><gen expand="masculin">m.</gen></gramGrp>
+                     <sense n="1">
+                        <def>Excommunication, qui se dit proprement chez les Auteurs Ecclesiastiques de celle qui est faite par un Evêque ou un Concile avec grandes execrations &amp; maledictions, qu'on ne prononce que contre ceux qui ont commis quelque grand crime, ou qui sont incorrigibles : &amp; en cela il differe de la simple excommunication, qui deffend seulement l'entrée de l'Eglise, &amp; la communication avec les Fidelles.</def>
+                        <note>On a fulminé anatheme contre cet Heretique relaps. Il y a trois sortes d'anathemes, les uns judiciaires, les autres applicatoires, &amp; abjuratoires. Les judiciaires ne peuvent être faits que par personnes fondées en jurisdiction. Les abjuratoires le peuvent être même par des Laïques ; comme quand quelqu'un revient de l'heresie à l'Eglise Catholique, on luy fait toujours anathematiser l'heresie dont il se depart : mais ces anathemes ne sont que simples executions &amp; applications des anathemes. Mais le mot d'anathematiser en tels cas judiciaires ne veut dire autre chose, sinon, Abjurer, abhorrer, &amp; tenir pour anathematisé. Ainsi l'excommunication est toûjours un acte de jurisdiction, &amp; l'anatheme ne l'est pas toûjours.</note>
+                     </sense>
+                     <sense n="2">
+                        <form><orth>ANATHEME</orth></form><pc>,</pc>
+                        <def>Anatheme, se dit aussi de celuy qui est excommunié par un Evêque ou un Concile.</def>
+                        <note>Si quelqu'un soûtient que les causes de mariage n'appartiennent point aux Ecclesiastiques, qu'il soit anatheme, dit le Concile.</note>
+                     </sense>
+                     <etym>Ces mots viennent du <lang xml:lang="gr">Grec</lang> <foreign>anathema</foreign>, qui signifie, ce qui est mis à part, ce qui est regardé comme le rebut.</etym>
+                  </entry>
+                  <entry xml:lang="fr" xml:id="Anatomie">
+                     <form><orth>ANATOMIE</orth></form>
+                     <pc>.</pc>
+                     <gramGrp><pos expand="substantif">s.</pos><gen expand="feminin">f.</gen></gramGrp>
+                     <sense n="1">
+                        <def>Science qui donne la connoissance des parties du corps humain par la dissection, &amp; même celle des autres animaux.</def>
+                        <note>Ce Chirurgien entend bien l'Anatomie, la dissection ; il a fait un cours d'Anatomie. Ceux qui ont écrit de l'Anatomie chez les Anciens, sont Avicenne, Mundin, Carpus, Thomas de Zerbis, Vasseus, Charles Estienne &amp; Dandernay, puis André Vesal &amp; Jacques Sylvius : entre les Modernes, Gabriel Fallope, Colombus, Vaulverd Espagnol, Eustache Bauhinus, Varolius, Arantius &amp; Pigafeta, Volcherus &amp; Felix Platerus, Jacques Guillemeau, Ambroise Paré, Chabrol, André du Laurens Medecin du Roy, dont on a suivi les opinions en la plus-part de cet ouvrage. Les nouveaux Anatomistes sont Harveus, Willis, Bartolin, Warton, Coringius, Stenon, du Verney, Malpighi, Hook, Francesco Reddi, Swammerdam &amp; autres qui ont bien encheri sur les anciens, &amp; qui avec l'aide du microscope ont fait plusieurs nouvelles descouvertes tant sur le corps de l'homme que sur ceux des moindres insectes. François Tortebat a fait un Abregé d'Anatomie accommodé aux arts de Peinture &amp; de Sculpture, &amp; orné de figures copiées d'aprés celles que fit le fameux Titien pour les ouvres de Vesale. Les Physiciens modernes ont fait aussi l'Anatomie des plantes. Il y en a entr’autres un beau Traité de Mr. Grew, qui est traduit par le Vasseur.</note>
+                        <etym>Ce mot vient du<lang xml:lang="gr">Grec</lang>
+                           <foreign>anatomi</foreign> qui signifie une section exacte qui se fait pour connoistre la nature de quelque chose, qui est composé de <foreign>tomi</foreign>, qui en general signifie toute <hi>couppure</hi>.</etym>
+                     </sense>
+                     <sense n="2">
+                        <form><orth>ANATOMIE</orth></form><pc>,</pc>
+                        <def>se dit aussi figurément de la discussion, de l'examen qui se fait de quelque chose, de quelque discours, de quelque affaire.</def>
+                        <note> Mon Rapporteur m'a fait l'anatomie de mon procés. j'ay examiné cette doctrine, j'en ay fait l'anatomie. on a fait l'anatomie de cet ouvrage dramatique. On dit proverbialement, qu'une personne est devenuë une vraye Anatomie, lors qu'elle est devenuë si maigre par une longue maladie, qu'on ne la reconnoist plus. </note>
+                     </sense>
+                     <form><orth>ANATOMIQUE</orth></form>
+                     <pc>.</pc>
+                     <gramGrp><pos expand="adjectif">adj.</pos><gen expand="masculin">m.</gen> &amp; <gen expand="feminin">f.</gen></gramGrp>
+                     <def>Qui appartient à l'Anatomie. Discours, dissection anatomique.</def>
+                     <form><orth>ANATOMISER</orth></form>
+                     <pc>.</pc>
+                     <gramGrp><pos expand="verbe">v.</pos><subc expand="actif">act.</subc></gramGrp>
+                     <def>Faire l'anatomie.</def>
+                     <note>Il se dit tant au propre qu'au figuré, d'un corps, d'une affaire, d'un ouvrage.</note>
+                     <form><orth>ANATOMISTE</orth></form>
+                     <pc>.</pc>
+                     <gramGrp><pos expand="substantif">s.</pos><gen expand="masculin">m.</gen></gramGrp>
+                     <def>Qui fait une anatomie, qui en sçait la science, ou qui en a écrit, tels que sont les Auteurs cy-devant nommez.</def>
+                     <etym>Ces mots sont tirés du <lang xml:lang="gr">Grec</lang><foreign>anatemno</foreign>, <foreign>disseco</foreign>, je <hi>couppe</hi>.</etym>
+                  </entry>
+                  <entry xml:lang="fr" xml:id="Anatron">
+                     <form><orth>ANATRON</orth></form>
+                     <pc>.</pc>
+                     <gramGrp><pos expand="substantif">s.</pos><gen expand="masculin">m.</gen></gramGrp>
+                     <def>C'est le sel volatil, &amp; l'escume de la composition du verre que l'on tire des creusets dans les fourneaux des Verriers.</def>
+                     <note>Il est gris, blanc, brun &amp; bleuastre. Il est inutile à la vitrification, &amp; n'est bon qu'à donner aux brebis, ou à mettre dans un colombier. Si on le pile, il laisse tomber au fond une poudre de sable qui en se resolvant à l'humidité de l'air, ou dans une certaine liqueur le reduit en sel commun aprés la coagulation.</note>
+                  </entry>
+               </div>
+               
+               <div n="ANC">
+                  <entry xml:lang="fr" xml:id="Ancestres">
+                     <form><orth>ANCESTRES</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="substantif">subst.</pos><gen expand="masculin">masc.</gen><number expand="pluriel">plur.</number></gramGrp>
+                     <def>Illustres qui ont été autrefois dans une race.</def>
+                     <note>Il marche sur les pas de ses Ancestres. On le dit aussi de tous ceux qui nous ont precede, particulierement de ceux d'une même nation. Nos Ancestres faisoient la guerre avec bien plus de discipline. 
+                        Menage derive ce mot de ancessore, ablatif de <foreign>ancessor</foreign>, qu'on a dit par contraction pour <foreign>antecessor</foreign>. On disoit en vieux François <foreign>Ancessors</foreign>, pour dire, Ancestres.</note>
+                  </entry>
+                  
+                  <entry xml:lang="fr" xml:id="Anche">
+                     <form><orth>ANCHE</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="substantif">s.</pos><gen expand="feminin">f.</gen></gramGrp>
+                     <sense n="1">
+                        <def>Petite languette par laquelle on donne le vent aux hauts-bois, aux flustes, à quelques tuyaux de l'orgue, &amp; à d'autres instruments de Musique.</def>
+                        <note>La plus simple des anches est faite d'un chalumeau ou tuyau de bled avec une petite entaille ou fente en longueur. Celle de roseau se fait d'une ou de deux pieces aussi deliées qu'une feuille de papier, qui sont tellement jointes ensemble, qu'elles ne laissent qu'une petite fente par où passe le vent. On fait aussi des anches de haut-bois avec des feuilles de palmier. Il y a dans l'orgue des jeux d'anche faits en forme de demy-cylindre, dont la partie concave est couverte d'une languette ou lame de leton platte, mobile &amp; tremblante, qu'on appelle eschalotte. On la fait entrer dans le noyau du tuyau qu'on perce exprés de la même grosseur. Elle sert à baisser, ou à hausser le ton des tuyaux par le moyen d'un fil de fer qui fait le même effet que les chevilles avec le marteau à tendre les cordes, parce qu'on l'ouvre ou on la ferme par le moyen d'un fil de fer qu'on nomme rasette, le mouvement, le ressort, ou le gouvernail, lequel selon qu'il presse plus ou moins la languette, fait faire au tuyau des sons plus graves, ou plus aigus. On fait les anches des tuyaux d'orgues de cuivre ou autre metail.</note>
+                        <etym>Ce mot vient du <lang xml:lang="gr">Grec</lang> <foreign>anchein</foreign>, qui signifie, <foreign>suffocare</foreign>, parce que l'anche fait une espece de suffocation de voix.</etym>
+                     </sense>
+                     <sense n="2">
+                        <form><orth>ANCHE</orth></form><pc>,</pc>
+                        <def>se dit aussi de l'endroit par où tombe la farine dans la huche d'un moulin.</def>
+                     </sense>
+                  </entry>
+                  
+                  <entry xml:lang="fr" xml:id="Anché">
+                     <form><orth>ANCHÉ</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="adjectif">adj.</pos><gen expand="masculin">m.</gen></gramGrp>
+                     <usg type="terme" ana="#blason">Terme de Blason<pc>,</pc></usg> <def>qui se dit d'un cimeterre recourbé.</def>
+                     
+                  </entry>
+                  
+                  <entry xml:lang="fr" xml:id="Anchois">
+                     <form><orth>ANCHOIS</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="substantif">s.</pos><gen expand="masculin">m.</gen></gramGrp>
+                     <def>C'est, selon Scaliger, une espece de hareng, ou un petit poisson de mer de la longueur d'un doit, sans arreste &amp; sans écaille.</def>
+                     <note>On luy oste la teste avant de le saler ; après quoy il est d'un goust agreable. Les anchois ressemblent aux petites sardines, &amp; se mangent salez avec huile, vinaigre &amp; poivre pour exciter l'appetit. On en fait des salades &amp; des sauces. On en mange de cruds &amp; de cuits. Le peuple dit des anchoyes, &amp; Maynard l'a ainsi employé dans une Epigramme, où il dit des escrits d’un méchant Poëte, qu’ils serviront de simarre aux anchoyes.</note>
+                     <etym>Ce mot vient de l'<lang xml:lang="es">Espagnol</lang> <foreign>anchova</foreign> ou plustost de l'<lang xml:lang="it">Italien</lang> <foreign>anchoia</foreign>.</etym>
+                     <etym>D’autres le derivent de <foreign>apua</foreign>, comme <foreign>ache</foreign> de <foreign>apium</foreign>. On l’appelle en <lang xml:lang="gr">Grec</lang> et en <lang xml:lang="la">Latin</lang> <foreign>encrasicholos</foreign>, parce qu’il a le fiel en la teste, ou <foreign>lycostomos</foreign>, pour avoir la gueule fenduë comme le loup.</etym>
+                  </entry>
+                  
+                  <entry xml:lang="fr" xml:id="Ancholie">
+                     <form><orth>ANCHOLIE</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="substantif">s.</pos><gen expand="feminin">f.</gen></gramGrp>
+                     <def>Fleur qui est faite en forme de petite cloche, mais qui est plissée.</def>
+                     <note>Matthiole dit que plusieurs estiment que l’ancholie est la grande chelidoine, parce que ses feuilles luy ressemblent &amp; sont chiquetées alentour comme le coriandre. Elle croist aux montagnes, &amp; pousse vers le mois de Juin plusieurs tiges gresles &amp; tendres, d’où sortent des fleurs purpurines, blanches, violettes &amp; d’autres couleurs, d’où proviennent de petits chapiteaux longuets qui portent une graine tannée.</note>
+                     <etym>En <lang xml:lang="la">latin</lang> <foreign>calathinna</foreign>, <foreign>aquilegia</foreign>, &amp; <foreign>aquilina</foreign>.</etym>
+                   </entry>
+                  
+                  <entry xml:lang="fr" xml:id="Ancien">
+                     <form><orth>ANCIEN</orth><lbl>. </lbl><orth type="feminin">ENNE</orth></form>
+                     <gramGrp><pos expand="adjectif">Adject.</pos></gramGrp>
+                     <sense n="1">
+                     <def>Ce qui est depuis longtemps, ou qui a été autrefois.</def>
+                        <note>L'Ancien Testament, l'Ancienne Loy. anciens monuments. anciens Auteurs. les anciens Peres. l'ancien Droit. l'ancienne Coustume de Paris, par opposition à la nouvelle. il a fait cela en consideration de l'ancienne amitié qu'il luy porte. il est d'une ancienne Noblesse, d'une ancienne famille.</note>
+                        <note>Quand on dit absolument, les Anciens, on entend les Grecs &amp; les Romains. Les Anciens avoient de coustume de brusler les corps morts. Quand on cite un vieux Auteur dont on a oublié le nom, on se sert de cette expression, Un Ancien a dit une belle parole.</note>
+                     </sense>
+                     
+                     <sense n="2">
+                        <form><orth>ANCIEN</orth></form><pc>,</pc>
+                        <def>se dit aussi de celuy qui est le premier receu dans un Corps, ou de ceux qui ont passé par les charges.</def>
+                        <note>Il faut luy ceder le pas, c'est vôtre Ancien. En ce sens le premier de tous s'appelle l'Ancien, ou le Doyen d'une Compagnie. On appelle l'Ancien Eschevin, ou Marguillier, celuy qui fait sa seconde année. On appelle aussi Anciens Eschevins, ou Marguilliers, ceux dont le temps est fait. Les Anciens d'une telle Compagnie ont été deputés vers le Roy. il en faut passer par l'advis des anciens Advocats. On dit, les Anciens du Consistoire de la Religion Pretenduë Reformée. On le dit aussi des veterans dans un Corps.</note>
+                        <note>On dit aussi d'un vieillard, que c'est un homme ancien, qu'il luy faut porter du respect. On dit, l'ancien Evêque d'une telle ville, lors qu'il a quitté son Eglise, &amp; qu'il y en a un nouveau à sa place. cet homme est ancien dans la robbe, il y a vieilli.</note>
+                        <note>On dit aussi au Palais, le plus ancien en hypotheque, pour dire, le premier en datte, &amp; qui doit venir le premier en ordre sur le prix d'un heritage. </note>
+                     </sense>
+                  </entry>
+                  
+                  <entry xml:lang="fr" xml:id="Anciennement">
+                     <form><orth>ANCIENNEMENT</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="adverbe">adv.</pos></gramGrp>
+                     <def>Au temps jadis, dans les siecles éloignés.</def>
+                  </entry>
+                  
+                  <entry xml:lang="fr" xml:id="Ancienneté">
+                     <form><orth>ANCIENNETE</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="substantif">s.</pos><gen expand="feminin">f.</gen></gramGrp>
+                     <def>Ce qui fait qu'une chose est ancienne, ce qui est d'un temps immemorial.</def>
+                     <note>On a coustume d'ancienneté de faire un tel jour une telle ceremonie. cela est établi de toute ancienneté.</note>
+                     <note>On le dit aussi de ce qui est plus ancien par priorité de temps. L'ancienneté de son hypotheque le fera payer devant vous. l'ancienneté de sa reception le fera monter le premier à la Grande Chambre.</note>
+                  </entry>
+                  
+                  <entry xml:lang="fr" xml:id="Ancrage">
+                     <form><orth>ANCRAGE</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="substantif">s.</pos><gen expand="masculin">m.</gen></gramGrp>
+                     <sense n="1">
+                     <def>Lieu propre à jetter l'ancre.</def>
+                     <note>Cette coste est de bon ancrage.</note>
+                     </sense>
+                     <sense n="2">
+                        <def>Il signifie encore, Ce qui appartient à l'ancre.</def>
+                        <note>Il y a certains Officiers qui ont soin de l'ancrage, comme les Bosmans.</note>
+                     </sense>
+                     <sense n="3">
+                        <def>Il signifie aussi, un droit qu'on paye en plusieurs lieux pour avoir permission d'ancrer.</def>
+                     </sense>
+                     <etym>Ce mot vient du <lang xml:lang="la">Latin</lang> <foreign>anchora</foreign>, qui est tiré du <lang xml:lang="gr">Grec</lang> <foreign>anchyra</foreign>, qui signifie le même.</etym>
+                  </entry>
+                  
+                  <entry xml:lang="fr" xml:id="Ancre">
+                     <form><orth>ANCRE</orth></form>
+                     <pc>.</pc>
+                     <gramGrp><pos expand="substantif">s.</pos><gen expand="feminin"
+                        >f.</gen></gramGrp>
+                     <sense n="1">
+                        <usg type="terme" ana="#marine">Terme de Marine.</usg>
+                        <note>Les gens de mer le sont souvent masculin.</note>
+                        <def>C'est une grosse piece de fer, qui par un bout est courbée &amp; forme deux pointes ou pattes, qui aboutissent des deux costez en arc, &amp; sont semblables à un hameçon.</def>
+                        <note>Elle sert à arrester toutes sortes de vaisseaux sur la mer &amp; sur les rivières. Il y en a de quatre sortes. La plus grande, qu'on nomme maistresse, ne sert jamais que dans le danger, pour empêcher que le navire ne tombe en coste. La seconde sert à tenir le vaisseau à la rade. La troisiéme, pour enfourcher le navire ; &amp;;amp empêcher de s'éloigner ou de chasser sur son ancre. La quatriéme s'appelle Toüeux ou de Toüey, dont on se sert pour haler un navire, &amp;;amp pour le faire avancer avec le cabestan ou virevault, quand il faut changer de rade, ou entrer dans un havre, ou en sortir. Le cable dont on se sert dans cette occasion s'appelle hansiere. Les parties d'une ancre sont, l'anneau, la verge, les bras, les pattes, les oreilles, &amp;; l'aissicu de bois ou le jas. L'anneau qu'on appelle arganeau, est entortillé de certaines cordelettes qu'on nomme bodinure. Talinguer le cable, c'est l'ajuster dans l'anneau. Le bois auquel on attache le cable dans le vaisseau sur les escubiers s'appelle bosseur. L'orin est une grosse corde qui accole les deux bras de l'ancre, &amp;;amp aboutit à un gros liege, ou à un baril qui flotte sur l'eau, &amp;;amp monstre l'endroit où est l'ancre. On appelle aussi la tige droite d'une ancre, stangue ou scape. On dit, jetter l'ancre, lever l'ancre, mouiller l'ancre, estre à l'ancre, donner fond, mettre le vaisseau sur le fer ; sur son ancre. On dit aussi, qu'un vaisseau chasse sur les ancres, lors qu'il s'éloigne du lieu où il a mouillé, soit par la violence des coups de mer, soit parce que le fond est de mauvaise tenue. On dit, Gouverner sur l'ancre, quand on vire le vaisseau pour desancrer plus facilement. Faire venir l'ancre à pic, pour dire, Venir sur l'endroit où l'ancre est mouillée. Brider l'ancre, c'est, Empêcher que le fer ne creuse &amp;; n'élargisse le sable par le moyen des planches qu'on met à ses pattes. Bosser l'ancre, c'est, la mettre sur les bosseurs. L'ancre de flot, est celle qui tient le navire au montant. L'ancre de jussant, est celle qui le tient en descendant. Il y a des peuples dans les Indes qui se servent dans la navigation d'ancres de bois.</note>
+                        <etym>Ce mot vient du <lang xml:lang="la"/>Latin</etym>
+                        <foreign>anchora</foreign>. </sense>
+                     <sense n="2">
+                        <form><orth>ANCRES</orth></form><pc>,</pc>
+                        <def>ou Tirans, en Architecture, sont des pieces de fer qui ont en haut la figure d'une ancre, avec quoy on attache les poutres quand elles ont leurs portées sur les murs en dehors.</def>
+                        <note>Elles servent à tenir les murailles plus fermes &amp; mieux enliées. On s'en sert aussi aux cheminées, quand elles sont sur les crouppes, pour les garentir de l'effort des vents.</note>
+                     </sense>
+                     <sense n="3">
+                        <form><orth>ANCRE</orth></form><pc>,</pc> est aussi un <usg type="terme" ana="#blason">terme de Blason<pc> ; </pc></usg>mais en cet art ses parties y sont nommées differemment. Le bois traversant qui est au dessus s'appelle trabe. Le fer droit qui entre dans la trabe, s'appelle stangue ; &amp; le cable est appellé gumene. Les Amiraux mettent une ancre derriere leur Escu pour marque de leur charge. L'ancre est le symbole de l'esperance. </sense>
+                     <sense n="4">
+                        <form><orth>ANCRE</orth></form><pc>,</pc>
+                        <def>signifie aussi, une liqueur servant à écrire, composée de quatre parts de vitriol Romain, ou couperose verte, de deux parts de noix de galle, d'une part d'alun de roche, &amp; d'une de gomme Arabique, le tout cuit en eau, en vin ou eau de vie, avec un peu de sucre candi pour la rendre luisante.</def>
+                        <xr>
+                           <lbl>Voyez</lbl>
+                           <ref target="#encre">Encre</ref>
+                           <pc>.</pc>
+                        </xr>
+                        <note>Ancre double, ancre noire. Ancre d'Imprimerie, qui se fait avec de la terebentine &amp; de l'huile de noix ou de lin avec du noir broyé, le tout cuit ensemble. Ancre rouge ou rosette.</note>
+                        <etym>Il y a apparence qu'en ce sens ce mot vient d'<foreign>incaustum</foreign>, ou de l'<lang xml:lang="it">Italien</lang> <foreign>inchiostrol</foreign>; &amp; l'on pretend par là qu'il se doit écrire par un E.</etym>
+                        <note>On dit, Escrire de bonne ancre, pour dire, Recommander par écrit une affaire de la bonne façon.</note>
+                        <note>On appelle aussi ancre, toute liqueur noire, comme celle que jette la Seche ; &amp; ces couleurs qui servent aux Peintres, aux Teinturiers &amp; aux Courroyeurs,</note>
+                        <etym>qu'on appelle en <lang xml:lang="la">Latin</lang>, <foreign>atramentum sutorium.</foreign></etym>
+                     </sense>
+                  </entry>
+                  
+                  <entry xml:lang="fr" xml:id="Ancrer">
+                     <form><orth>ANCRER</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="verbe">v.</pos><subc expand="actif">act.</subc></gramGrp>
+                     <sense n="1">
+                        <def>C'est jetter l'ancre, mouiller l'ancre.</def>
+                        <note>On dit figurément, que quelqu'un s'est bien ancré dans une maison, pour dire, qu'il y est bien établi, bien affermi, qu'on auroit de la peine à l'en chasser.</note>
+                     </sense>
+                     <sense n="2">
+                        <form><orth>ANCRE</orth><lbl>, </lbl><orth type="feminin">EE</orth></form>
+                        <def>Est aussi un </def><usg type="terme" ana="#blason">terme de Blason<pc>, </pc></usg><def>qui se dit des croix &amp; sautoirs dont les bouts se divisent en deux, &amp; font sont tournez comme les pattes d'une ancre.</def>
+                     </sense>
+                  </entry>
+                  
+                  <entry xml:lang="fr" xml:id="Ancrier">
+                     <form><orth>ANCRIER</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="substantif">s.</pos><gen expand="masculin">m.</gen></gramGrp>
+                     <def>Petit vaisseau où on met l'ancre pour escrire, &amp; qui fait souvent partie d'une escritoire.</def>
+                  </entry>
+               </div>
+               
+               <div n="AND">
+                  <entry xml:lang="fr" xml:id="Andaillots">
+                     <form><orth>ANDAILLOTS</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="substantif">subst.</pos><gen expand="masculin">masc.</gen></gramGrp>
+                     <usg type="terme" ana="#marine">Terme de Marine.</usg>
+                     <def>Ce sont des anneaux qui servent à amarrer la voile, qu'on met de beau temps sur le grand estay.</def>
+                  </entry>
+                  
+                  <entry xml:lang="fr" xml:id="Andain">
+                     <form><orth>ANDAIN</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="substantif">subst.</pos><gen expand="masculin">masc.</gen></gramGrp>
+                     <def>Estenduë en longueur d'un pré qu'on fauche sur la largeur de ce qu'un faucheur peut coupper d'herbe à chaque pas qu'il avance.</def>
+                     <note>Il y a tant d'andains dans la largeur de ce pré. La plus-part des Meusniers pretendent avoir droit de faucher un andain de pré le long du biez de leur moulin.</note>
+                     <etym>Quelques-uns disent ondain, mais abusivement ; car ce mot vient de <foreign>andare</foreign>, aller, parce que l'andain se fait en marchant. D'autres derivent ce mot de <foreign>antes</foreign>, <foreign>antium</foreign>, qui signifie, les sillons &amp; rangs de vignes ressemblants à des andains de pré.</etym>
+                     <etym><ref target="#Du_Cange_ISN0000000121021239">Du Cange</ref> dit qu'il vient du <lang xml:lang="la">Latin</lang> <foreign>andena</foreign>, mot de la basse Latinité, qui signifie, l'espace compris entre les jambes d'un homme escarquillées.</etym>
+                  </entry>
+                  
+                  <entry xml:lang="fr" xml:id="Andouille">
+                     <form><orth>ANDOUILLE</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="substantif">subst.</pos><gen expand="feminin">fem.</gen></gramGrp>
+                     <def>Mets que les Charcutiers preparent avec des boyaux de cochon enfermés dans un autre boyau.</def>
+                     <note>Il s'en fait aussi avec de la chair hachée, &amp; assaisonnée d'oignon &amp; d'espices. Les andouilles de Troyes sont les plus renommées.</note>
+                     <etym>Ce mot vient du <lang xml:lang="la">Latin</lang> <foreign>indusiola</foreign>, selon quelques-uns : mais il y a plus d'apparence qu'il vient d'<foreign>anduiller</foreign>, vieux mot Celtique ou Bas-Breton, signifiant la même chose.</etym>
+                  </entry>
+                  
+                  <entry xml:lang="fr" xml:id="Andouillette">
+                     <form><orth>ANDOUILLETTE</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="substantif">subst.</pos><gen expand="feminin">fem.</gen></gramGrp>
+                     <def>Petit ragoust que font les Cuisiniers avec de la chair de veau hachée &amp; des oeufs, dont ils garnissent les potages &amp; les pastés, &amp; dont ils font des entrées de table.</def>
+                  </entry>
+                  
+                  <entry xml:lang="fr" xml:id="Andouillers">
+                     <form><orth>ANDOUILLERS</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="substantif">subst.</pos><gen expand="masculin">masc.</gen></gramGrp>
+                     <lbl>Ou </lbl><form><orth type="variant">Antoilliers</orth></form><pc>.</pc>
+                     <usg type="terme" ana="#venerie">Terme de Venerie.</usg>
+                     <def>Premiers cors ou rameures du bois de la teste du cerf joignant la meule.</def>
+                     <note>Les furandouilliers sont les seconds cors.</note>
+                  </entry>
+                  
+                  <entry xml:lang="fr" xml:id="Androgyne">
+                     <form><orth>ANDROGYNE</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="substantif">subst.</pos><gen expand="masculin">masc.</gen> &amp; <gen expand="feminin">fem.</gen></gramGrp>
+                     <def>Hermaphrodite qui a les deux natures, qui est masle &amp; femelle tout ensemble.</def>
+                     <note>Dans les Dialogues de Platon il y a une fable de l'Androgyne.</note>
+                     <etym>Ce mot est <lang xml:lang="gr">Grec</lang>, &amp; signifie, masle &amp; femelle.</etym>
+                  </entry>
+               </div>
+               
+               <div n="ANE">
+                  <entry xml:lang="fr" xml:id="Aneantir">
+                     <form><orth>ANEANTIR</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="verbe">v.</pos><subc expand="actif">act.</subc></gramGrp>
+                     <sense n="1">
+                        <def>Reduire au neant, ou à peu de chose.</def>
+                        <note>Les corps naturels changent de forme, mais ils ne s'aneantissent pas. de grandes villes ont été aneanties par les guerres, par les embrasements. le temps aneantit toutes choses. la grandeur Romaine s'est aneantie, il n'en reste plus que l'ombre.</note>
+                        <etym>Ce mot vient de son primitif neant.</etym>
+                     </sense>
+                     <sense n="2">
+                     <form><orth>ANEANTIR</orth></form><pc>,</pc>
+                        <def>se dit figurément en choses morales.</def>
+                        <note>Ce Prince a aneanti toutes les loix de son predecesseur ; il a aneanti plusieurs grandes maisons pour en élever d'autres.</note>
+                     </sense>
+                     <sense n="3">
+                        <form><orth>ANEANTIR</orth></form><pc>,</pc>
+                        <def>signifie aussi, s'Humilier extremement.</def>
+                        <note>St. Paul dit que le Seigneur s'est aneanti luy-même en se faisant homme, &amp; en prenant la forme d'un esclave.</note>
+                     </sense>
+                  </entry>
+                  
+                  <entry xml:lang="fr" xml:id="Aneantissement">
+                     <form><orth>ANEANTISSEMENT</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="substantif">subst.</pos><gen expand="masculin">masc.</gen></gramGrp>
+                     <sense n="1">
+                        <def>Diminution d'une chose, reduction à rien, au neant.</def>
+                        <note>Il n'y a point d'entier aneantissement dans la nature : Dieu seul peut faire cette sorte d'aneantissement.</note>
+                     </sense>
+                     <sense n="2">
+                        <form><orth>ANEANTISSEMENT</orth></form><pc>,</pc>
+                        <def>se dit figurément en Morale d'une grande humilité.</def>
+                        <note>L'aneantissement de soy-même devant la Majesté Divine est une action fort Chrêtienne.</note>
+                     </sense>
+                  </entry>
+                  
+                  <entry xml:lang="fr" xml:id="Anecdotes">
+                     <form><orth>ANECDOTES</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="substantif">subst.</pos><gen expand="feminin">fem.</gen></gramGrp>
+                     <def>Terme dont se servent quelques Historiens pour intituler les Histoires qu'ils font des affaires secrettes &amp; cachées des Princes, c'est à dire, des Memoires qui n'ont point paru au jour, &amp; qui n'y devroient point paroistre.</def>
+                     <note>Ils ont imité en cela Procope, Historien qui a ainsi intitulé un livre qu'il a fait contre Justinien &amp; sa femme Theodora. C'est le seul des Anciens qui nous ait laissé des Anecdotes, &amp; qui ait monstré les Princes tels qu'ils étoient dans leur domestique. Varillas a fait les Anecdotes, ou l'Histoire secrette de la Maison de Medicis.</note>
+                     <etym>Ce mot vient du <lang xml:lang="gr">Grec</lang> <foreign>Anecdota</foreign>, qui signifie, Choses qui n'ont pas paru, qui ont été tenuës secretes, qui n'ont pas été données au public.</etym>
+                  </entry>
+                  
+                  <entry xml:lang="fr" xml:id="Anemone">
+                     <form><orth>ANEMONE</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="substantif">subst.</pos><gen expand="feminin">fem.</gen></gramGrp>
+                     <def>Fleur printaniere diversifiée de plusieurs couleurs, &amp; qui vient d'oignon.</def>
+                     <note>Il y en a de simples, de doubles. Anemone bleuë, blanche, rouge. cette anemone a une belle peluche.</note>
+                     <etym>En <lang xml:lang="la">Latin</lang> <foreign>anemone</foreign>, &amp; en <lang xml:lang="gr">Grec</lang> <foreign>anemoni</foreign>, qui signifie, herbe du vent, parce qu'elle ne s'épanouït point que quand le vent souffle, à ce que dit Pline. Ce mot vient du <lang xml:lang="gr">Grec</lang> <foreign>anemos</foreign>, <foreign>ventus</foreign>.</etym>
+                  </entry>
+                  
+                  <entry xml:lang="fr" xml:id="Anemoscope">
+                     <form><orth>ANEMOSCOPE</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="substantif">subst.</pos><gen expand="masculin">masc.</gen></gramGrp>
+                     <def>est un nom que Mr. Guerike Bourguemestre de Magdebourg &amp; grand Mathematicien a donné à une machine de son invention, qui fait connoistre le changement de l'air &amp; du vent, ou le beau &amp; le mauvais temps, deux ou trois jours avant qu'il arrive.</def>
+                     <note>C'est un petit homme de bois qui s'éleve ou s'abaisse dans une colomne de verre où il est enfermé. Le Sr. Comiers a fait voir que ce n'étoit autre chose que l'application du barometre, &amp; que ce mouvement ne se faisoit que par la pesanteur ou legereté de l'air, dans un Traité qu'il en a donné au public, qui a été inseré dans le Mercure Galant du mois de Mars 1683.</note>
+                     <etym>Ce mot vient d'<foreign>anemos</foreign>, &amp; <foreign>skeptomai</foreign>, <foreign>speculor</foreign>.</etym>
+                  </entry>
+                  
+                  <entry xml:lang="fr" xml:id="Anet">
+                     <form><orth>ANET</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="substantif">s.</pos><gen expand="masculin">m.</gen></gramGrp>
+                     <def>Herbe qui ressemble au fenouil, qui a comme luy des fleurs jaunes en bouquet, dont la semence est platte &amp; odoriferante, dont les tiges sont hautes d'une coudée &amp; demie, &amp; branchuës, &amp; dont la racine n'est gueres longue &amp; peu cheveluë.</def>
+                     <note>On en faisoit autrefois des chapeaux dans les festins. Jesus-Christ reprochoit aux Pharisiens, qu'ils payoient les dixmes de la menthe &amp; de l'anet, en marquant leur hypocrisie.</note>
+                     <etym>En <lang xml:lang="la">Latin</lang> <foreign>anethum</foreign>. Ce mot vient du <lang xml:lang="gr">Grec</lang>, <foreign>ano</foreign>, <foreign>sursum</foreign>, &amp; <foreign>theein</foreign>, <foreign>crescere</foreign>, parce qu'il croist fort viste.</etym>
+                  </entry>
+				  
+				  <entry xml:lang="fr" xml:id="Aneurisme">
+					<form><orth>ANEURISME</orth></form><pc>.</pc>
+					<gramGrp><pos expand="substantif">s.</pos><gen expand="masculin">m.</gen></gramGrp>
+					<usg type="terme" ana="#medecine">Terme de Medecine.</usg>
+					<def>C'est une tumeur molle qui obeït au toucher, engendrée de sang &amp; d'esprits espandus sous la chair par dilatation ou relaxation d'une artere.</def>
+					<note>Galien dit que quand l'artere est ouverte par anastomose, il se fait une maladie dite aneurisme. Elle se fait aussi, lors qu'en saignant on ouvre une artere au lieu d'une veine.</note>
+				  </entry>
+               </div>
+			   
+				<div n="ANF">
+				   <entry xml:lang="fr" xml:id="Anfractueux">
+				      <form><orth>ANFRACTUEUX</orth></form><pc>.</pc>
+				      <gramGrp><pos expand="adjectif">adj.</pos><gen expand="masculin">m.</gen></gramGrp>
+				      <sense n="1">
+				         <def>Terme dogmatique, qui se dit particulierement en Medecine des veines, arteres &amp; autres conduits qui font plusieurs tours &amp; destours fort irreguliers.</def>
+				         <note>Les conduits de l'oreille sont fort anfractueux.</note>
+				         <etym>Ce mot vient du <lang xml:lang="la">Latin</lang> <foreign>anfractus</foreign>, qui signifie, destour.</etym>
+				      </sense>
+				      <sense n="2">
+				         <def>On tient que les hommes &amp; les animaux qui ont le plus de sillons ou anfractuositez dans le cerveau, ont plus d'esprit &amp; de sagacité que les autres. </def>
+				      </sense>
+				   </entry> 
+				</div>
+               
+            <div n="ANG">
+               <entry xml:lang="fr" xml:id="Angar">
+                  <form><orth>ANGAR</orth></form><pc>.</pc>
+                  <gramGrp><pos expand="substantif">s.</pos><gen expand="masculin">m.</gen></gramGrp>
+                  <def>Remise de carrosse, chariots, ou charrettes, qui est un couvert fait en appentis.</def>
+                  <etym>Ce mot vient de l'<lang xml:lang="al">Allemand</lang> <foreign>angen</foreign>, qui signifie simplement, appentis.</etym>
+                  <note>menage</note>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref target="#hangart">Hangart</ref>
+                     <pc>.</pc>
+                  </xr>
+               </entry>
+               
+               <entry xml:lang="fr" xml:id="ange">
+                  <form><orth>ANGE</orth></form><pc>.</pc>
+                  <gramGrp><pos expand="substantif">subst.</pos><gen expand="masculin">masc.</gen></gramGrp>
+                  <sense n="1">
+                     <def>Substance spirituelle &amp; intelligente qui tient le premier rang entre les creatures de Dieu.</def>
+                     <note>On compte dans l'Ecriture neuf Hierarchies des Anges.</note>
+                  </sense>
+                  <sense n="2">
+                     <form><orth>ANGE</orth></form><pc>,</pc>
+                     <def>se prend specifiquement pour une de ces creatures qui est du neufviéme &amp; du plus bas Choeur de la Hierarchie Celeste, les Anges, Archanges, &amp;c.</def>
+                     <note>L'Ange Exterminateur. un Ange de lumiere, c'est un bon Ange. un Ange de tenebres, c'est un Diable. l'Ecriture fait mention de Sathan &amp; de ses Anges. nostre Ange gardien, ou nostre bon Ange, est celuy que Dieu a commis à la garde de nostre personne. l'Ange de l'Eglise d'Ephese dont parle l'Apocalypse.</note>
+                  </sense>
+                  <sense n="3">
+                     <form><orth>ANGE</orth></form><pc>,</pc>
+                     <def>se dit figurément en parlant de celuy qui a une qualité extraordinaire.</def>
+                     <note>Cet Auteur écrit comme un Ange. cet homme peint en Ange. il a la voix d'un Ange. cette fille est un Ange, un Ange mortel, a un visage d'Ange. On dit, qu'un homme vit en Ange, quand il vit en grande pureté : &amp; pour cette raison on a donné autrefois aux Papes &amp; aux Evêques le nom d'Anges, comme témoigne <ref target="#Du_Cange_ISN0000000121021239">Du Cange</ref>. On appelle des manches d'Anges, certaines manches des femmes qui sont fort larges, &amp; qui ne vont qu'à la moitié du bras, parce qu'on habille ainsi les Anges quand on les peint. un lit d'Ange, est celuy dont les rideaux sont faits en pavillon, retroussez &amp; suspendus au plancher, &amp; sans quenouilles. de l'eau d'Ange, est une eau odoriferante faite de plusieurs fleurs &amp; aromats, qui est extremement agreable.</note>
+                  </sense>
+                  <sense n="4">
+                     <form><orth>ANGE</orth></form><pc>,</pc>
+                     <def>en termes d'Artillerie, est un boulet de canon fendu en deux, dont les deux moitiés sont attachées par une chaisne ou une barre de fer. On en tire sur la mer pour rompre les cordages, masts &amp; manoeuvres des ennemis.</def>
+                  </sense>
+                  <sense n="5">
+                     <form><orth>ANGE</orth></form><pc>,</pc>
+                     <def>se dit des petits moucherons qui naissent du vin &amp; du vinaigre.</def>
+                  </sense>
+                  <sense n="6">
+                     <form><orth>ANGE</orth></form><pc>,</pc>
+                     <def>est aussi un poisson de mer qu'on fait passer pour de la raye, parce qu'il luy ressemble ; mais il est plus gros, &amp; il a la chair plus dure.</def>
+                     <etym>En <lang xml:lang="la">Latin</lang> <foreign>Squatina</foreign>.</etym>
+                  </sense>
+                  <note>On dit proverbialement, Rire aux Anges, quand on rit seul &amp; sans sujet : Boire aux Anges, quand on ne sçait plus quelle santé on peut boire. On appelle par raillerie les crocheteurs, des Anges de greve, à cause de leurs crochets qui tiennent lieu d'ailes. On dit aussi d'un visionnaire, ou qui a receu quelque coup violent dans les yeux, qu'il a veu des Anges violets.</note>
+                  <etym>Ce mot vient du <lang xml:lang="gr">Grec</lang> <foreign>angelos</foreign>, qui signifie, messager, envoyé.</etym>
+               </entry>
+               
+               <entry xml:lang="fr" xml:id="Angelique">
+                  <form><orth>ANGELIQUE</orth></form><pc>.</pc>
+                  <gramGrp><pos expand="adjectif">adj.</pos><gen expand="masculin">masc.</gen> &amp; <gen expand="feminin">fem.</gen></gramGrp>
+                  <sense n="1">
+                     <def>Qui tient de l'Ange.</def>
+                     <note>La Salutation Angelique, c'est l'Ave Maria, que l'Ange dit à la Vierge, lors qu'il luy annonça le mystere de l'Incarnation.</note>
+                  </sense>
+                  <sense n="2">
+                     <form><orth>ANGELIQUE</orth></form><pc>,</pc>
+                     <def>se dit aussi des qualités excellentes de quelque chose.</def>
+                     <note>Une vie angelique, un esprit angelique. Un visage angelique, une chere angelique. On appelle en Theologie St Thomas, le Docteur Angelique.</note>
+                  </sense>
+                  <sense n="3">
+                     <form><orth>ANGELIQUE</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="substantif">subst.</pos><gen expand="feminin">fem.</gen></gramGrp>
+                     <def>Est aussi une espece de boisson, qui est un hypocras fait de Coindrieu, ou d'autre vin exquis.</def>
+                  </sense>
+                  <sense n="4">
+                     <form><orth>ANGELIQUE</orth></form><pc>,</pc>
+                     <def>est aussi un instrument de Musique à cordes, qui est compose du luth &amp; du theorbe.</def>
+                  </sense>
+                  <sense n="5">
+                     <form><orth>ANGELIQUE</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="substantif">subst.</pos><gen expand="feminin">fem.</gen></gramGrp>
+                     <def>Plante medecinale qui croist sur les hautes montagnes, &amp; particulierement en Boheme.</def>
+                     <note>Sa tige a plus d'une coudée de haut ; elle est nouée en divers endroits, creuse, &amp; ayant plusieurs branches. Ses feuilles sont longues &amp; dentelées, d'un verd obscur. Ses fleurs sont blanches, sa graine large, platte, &amp; de la figure des lentilles. Sa racine est de la grosseur d'un pouce, ronde, &amp; longue d'un pied, &amp; ressemble au raifort. Elle est divisée dans sa longueur en plusieurs parties representant une barbe. Elle est obscure au dehors, blanche au dedans, de substance rare, d'un goust picquant, &amp; d'une odeur fort aromatique. Elle entre en la composition de la theriaque.</note>
+                     <etym>On l'appelle en <lang xml:lang="la">Latin</lang> <foreign>Radix Syriaca</foreign>, <foreign>Angelica</foreign>.</etym>
+                     <note>Le nom d'Angelique luy a été donné à cause de son excellente vertu. Dioscoride &amp; les Anciens ne l'ont point connuë.</note>
+                     <note>Il y a une autre Angelique d'Acadie nouvellement descrite dans les Memoires de l'Academie des Sciences, qui a la fleur jaune, la racine noire &amp; touffuë, plusieurs tiges creuses, anguleuses, &amp; hautes d'un pied &amp; demi, avec des branches qui naissent des aisselles des feuilles. Chaque branche porte en son extremité une petite ombelle composée de plusieurs bouquets de fleurs jaunes tres-petites, qui ont cinq feuilles, qui naissent d'un pericarpe verd gros comme la teste d'une espingle. Sa graine est brune, cannelée, &amp; semblable à celle du carvi. Cette plante est acre, amere &amp; aromatique, &amp; a l'odeur fort differente de l'Angelique ordinaire. </note>
+                  </sense>
+               </entry>
+               <entry xml:lang="fr" xml:id="Angeliquement">
+                  <form><orth>ANGELIQUEMENT</orth></form><pc>.</pc>
+                  <gramGrp><pos expand="adverbe">adv.</pos></gramGrp>
+                  <def>D'une maniere angelique.</def>
+                  <note>Il chante angeliquement.</note>
+               </entry>
+               <entry xml:lang="fr" xml:id="Angelot">
+                  <form><orth>ANGELOT</orth></form><pc>.</pc>
+                  <gramGrp><pos expand="substantif">s.</pos><gen expand="masculin">m.</gen></gramGrp>
+                  <sense n="1">
+                     <def>est une espece de petit fromage quarré qu'on fait en Brie, qui est fort gras &amp; excellent.</def>
+                     <note>On l'appelle Angelot de Brie.</note>
+                  </sense>
+                  <sense n="2">
+                     <form><orth>ANGELOT</orth></form><pc>,</pc>
+                     <def>est encore une espece de monnoye qui étoit en usage vers l'an 1240. &amp; qui valoit un escu d'or fin.</def>
+                     <note>Il y en a eu de divers poids &amp; de divers prix. Ils portoient l'image de St. Michel, qui tenoit une espée à la main droite, &amp; à la gauche un Escu chargé de trois fleurs de lys, ayant à ses pieds un serpent. On en voyoit du temps de Louis XI. Il y en a eu d'autres qui avoient la figure d'un Ange qui portoit les Escus de France &amp; d'Angleterre, battus du temps de Henry VI. Roy d'Angleterre. Ils valoient quinze sous.</note>
+                  </sense>
+               </entry>
+               <entry xml:lang="fr" xml:id="Angelus">
+                  <form><orth>ANGELUS</orth></form><pc>,</pc>
+                  <def>est une priere à la Vierge qui commence par le mot d'Angelus, &amp; qui se fait trois fois le jour, lors qu'on sonne trois petits coups de la cloche par trois fois pour advertir de la faire.</def>
+                  <note>On appelle cela autrement le pardon, parce qu'on gagne des indulgences en la recitant.</note>
+               </entry>
+               
+               <entry xml:lang="fr" xml:id="Angemme">
+                  <form><orth>ANGEMME</orth><pc>,</pc> <orth type="variant">Angene</orth><pc>,</pc><lbl>ou </lbl><orth type="variant">Angenin</orth><pc>.</pc></form>
+                  <usg type="terme" ana="#blason">Terme de Blason<pc>,</pc></usg>
+                  <def>qui se dit d'une fleur factice &amp; imaginaire qui a six feuilles, qui ressemble à la quintefeuille, à la reserve que ses feuilles sont arrondies, au lieu d'être pointuës, comme celles de la quintefeuille.</def>
+                  <note>Elles sont quelquefois percées ; ce qu'il faut expliquer en blasonnant. Plusieurs croyent que ce sont des roses d'atour ou d'ornement faites de rubans, de broderies, ou de perles : &amp;</note>
+                  <etym>ce mot vient de <foreign>ingemmare</foreign> <lang xml:lang="it">Italien</lang>, c'est à dire, <foreign>adornar di gemme</foreign>. On les a encore nommées Achesmes, de <foreign>azimare</foreign>, <foreign>coëffer</foreign>. On dit encore en Picard, Achesmer, pour dire, Coëffer ; &amp; Achesmes se disoit autrefois pour toutes sortes d'ornements.</etym>
+               </entry>
+               
+               <entry xml:lang="fr" xml:id="Angiscope">
+                  <form><orth>ANGISCOPE</orth></form><pc>.</pc>
+                  <gramGrp><pos expand="substantif">subst.</pos><gen expand="masculin">masc.</gen></gramGrp>
+                  <xr>
+                     <lbl>Voyez</lbl>
+                     <ref target="#microscope">Microscope</ref>
+                     <pc>,</pc>
+                     <lbl>c'est la même chose</lbl>
+                     <pc>.</pc>
+                  </xr>
+               </entry>
+               
+               <entry xml:lang="fr" xml:id="Angle">
+                  <form><orth>ANGLE</orth></form><pc>.</pc>
+                  <gramGrp><pos expand="substantif">subst.</pos><gen expand="masculin">masc.</gen></gramGrp>
+                  <sense n="1">
+                     <usg type="terme" ana="#geometrie">Terme de Geometrie<pc>.</pc></usg>
+                     <def>C'est l'inclination de deux lignes l'une vers l'autre, qui enfin se couppent &amp; font l'angle au point de leur intersection.</def>
+                     <note>L'angle droit se forme, quand une ligne tombe perpendiculairement sur une autre : mais quand elle tombe obliquement, le plus grand angle s'appelle obtus, &amp; le plus petit aigu. Un angle rectiligne, est celuy qui se fait de lignes droites ; curviligne, qui se fait d'une ou de deux lignes courbes. Angle plan, est celuy qui se fait sur une superficie unie. Celuy-cy se fait en plusieurs manieres, qui ont des noms differents chez les anciens Geometres. On appelle, Angle cornu, celuy qui se fait d'une ligne droite qui touche ou qui couppe un cercle : Angle lunulaire, qui est en forme d'un croissant, qui se fait de deux lignes courbes qui se couppent, dont l'une est convexe, &amp; l'autre concave. Angle cissoïde, est l'angle intérieur qui se fait de deux lignes circulaires convexes qui se couppent. Angle sistroide, qui a la figure d'un sistre ; pelecoïde, qui a la figure d'une hache, ou d'une coignée, &amp;c. Angle spherique, est celuy qui se fait sur un globe par l'intersection de deux cercles. Angle solide, qui se fait de deux superficies inclinées l'une vers l'autre, qu'on appelle vulgairement carne. Angles de position. Les angles se mesurent par les degrés d'un cercle divisé en 360. dont le centre est dans l'intersection de leurs lignes. Ainsi on dit, un angle de 60. de 90. de 120. degrés, &amp;c.</note>
+                  </sense>
+                  <sense n="2">
+                     <form><orth>ANGLE</orth></form><pc>,</pc>
+                     <lbl>en </lbl><usg type="terme" ana="#fortification">termes de Fortification<pc>,</pc></usg>
+                     <def>se dit de ceux que forment les diverses lignes qui servent à fortifier.</def>
+                     <note>L'angle du centre est formé par les deux demi-diametres qui vont aux deux extremités les plus proches du polygone. L'angle du polygone, est celuy qui est fait des deux costés du polygone qui se touchent au centre du bastion. L'angle du flanc, ou de la courtine, est celuy qui a pour ses costés le flanc, &amp; la courtine, sur laquelle il tombe à plomb ordinairement. L'angle flanque, est la pointe du bastion, ou le concours des deux faces du bastion. L'angle flanquant exterieur, ou l'angle de tenaille, est celuy qui seroit fait des deux faces des bastions, si elles étoient prolongées. L'angle flanquant interieur, est celuy que fait la ligne rasante sur la courtine. Angle de l'espaule, est celuy qui est formé par le flanc &amp; la face du bastion. Angle diminué, est l'angle que fait la face du bastion avec le costé exterieur du polygone. Angle saillant, que quelques-uns appellent, Angle vif, est celuy dont la pointe est en dehors de la place. Angle rentrant, ou Angle mort, autrement Angle de tenaille, est celuy qui rentre dans le corps de la place, comme ceux des petits forts, qui ont la figure d'une étoile.</note>
+                     <note>On appelle aussi, les angles d'un bataillon, les soldats qui terminent les rangs &amp; les files, ou qui sont sur les ailes d'un corps rangé en bataille : &amp; on appelle, Emousser les angles d'un bataillon, quand on retranche les hommes qui sont aux quatre encoigneures, ensorte que d'un bataillon quarré on en fasse un octogone, qui presente par tout des piques sans laisser aucun intervalle vuide.</note>
+                  </sense>
+                  <etym>Ce mot angle vient du <lang xml:lang="fr">Latin</lang> <foreign>angulus</foreign>.</etym>  
+               </entry>
+               
+               <entry xml:lang="fr" xml:id="Anglé">
+                  <form><orth>ANGLÉ</orth></form><pc>.</pc>
+                  <gramGrp><pos expand="adjectif">adj.</pos></gramGrp>
+                  <usg type="terme" ana="#blason">Terme de Blason<pc>,</pc></usg>
+                  <def>qui se dit d'une croix ou sautoir quand il y a des figures mouvantes de ses angles : </def>
+                  <note>comme, La croix de Malte des François est anglée de quatre fleurs de lys.</note>
+               </entry>
+               
+               <entry xml:lang="fr" xml:id="Angleuse">
+                  <form><orth>ANGLEUSE</orth></form><pc>.</pc>
+                  <gramGrp><pos expand="adjectif">adj.</pos><gen expand="feminin">fem.</gen></gramGrp>
+                  <def>est une épithete qui se donne à des noix, quand elles ne se peuvent arracher qu'avec peine &amp; par morceaux de leur coque.</def>
+                  <etym>En <lang xml:lang="la">Latin</lang> <foreign>nux lignosa</foreign>.</etym>
+               </entry>
+               
+               <entry xml:lang="fr" xml:id="Angoisse">
+                  <form><orth>ANGOISSE</orth></form><pc>.</pc>
+                  <gramGrp><pos expand="substantif">s.</pos><gen expand="feminin">f.</gen></gramGrp>
+                  <def>Vieux mot qui signifie, Douleur violente.</def>
+                  <note>Il s'est pris les doits dans les fentes de cette porte, il en a senti beaucoup d'angoisse. Il se dit plus communément des afflictions de l'esprit. Il a senti beaucoup d'angoisse en apprenant la mort de son fils.</note>
+                  <etym>Ce mot vient du <lang xml:lang="la">Latin</lang> <foreign>angustia</foreign>.</etym>
+                  <re>
+                     <form><orth>Poires d'ANGOISSE</orth></form><pc>,</pc>
+                     <def>sont des poires de mauvais goust qui prennent à la gorge, que Menage dit avoir été ainsi nommées d'un village qui est en Limosin du même nom, où elles furent trouvées en l'an 1094.</def>
+                  </re>
+                  <re>
+                     <form><orth>Poire d'ANGOISSE</orth></form><pc>,</pc>
+                     <def>est aussi une espece de cadenas qui s'ouvre par un ressort, &amp; qu'on met dans la bouche d'une personne pour l'empêcher de crier au secours, ou pour la forcer à donner son argent.</def>
+                  </re>
+                  <note>On dit aussi au figuré, On luy a bien fait avaler des poires d'angoisse, pour dire, qu'on luy a dit beaucoup de choses fâcheuses dont il n'a osé se plaindre. </note>
+               </entry>
+               
+               <entry xml:lang="fr" xml:id="Anguillade">
+                  <form><orth>ANGUILLADE</orth></form><pc>.</pc>
+                  <gramGrp><pos expand="substantif">s.</pos><gen expand="feminin">f.</gen></gramGrp>
+                  <sense n="1">
+                     <def>Coups de foüet ; &amp; se dit particulierement de ceux qu'on donne avec une peau d'anguille.</def>
+                     <note>Regnier dit dans ses Satires : <q>M'eust donné l'anguillade, &amp; puis m'eust laissé là.</q></note>
+                  </sense>
+                  <sense n="2">
+                     <form><orth>ANGUILLADE</orth></form><pc>,</pc>
+                     <def>a signifié autrefois, Tromperie :</def>
+                     <note>&amp; ce mot étoit venu en ce sens de la farce de Pathelin, parce qu'il promit au Marchand de luy faire manger d'une belle anguille, pour avoir son drap.</note>
+                  </sense>
+               </entry>
+               <entry xml:lang="fr" xml:id="Anguille">
+                  <form><orth>ANGUILLE</orth></form><pc>.</pc>
+                  <gramGrp><pos expand="substantif">s.</pos><gen expand="feminin">f.</gen></gramGrp>
+                  <def>Poisson de riviere long &amp; menu, de la figure d'un serpent, dont la peau est si glissante, qu'on ne la peut tenir dans les mains.</def>
+                  <note>Les anguilles demeurent dans la bourbe, &amp; ne se peschent en abondance que dans les inondations, &amp; quand les eaux sont troubles. On a descouvert avec le microscope, que les anguilles ont la peau escaillée comme les autres poissons.</note>
+                  <etym>En <lang xml:lang="la"></lang>Latin <foreign>anguilla</foreign>.</etym>
+                  <note>On dit que les anguilles frayent avec les serpents. Abraham Mylius dans un Traité qu'il a fait de l'origine des animaux, enseigne la maniere de faire des anguilles par artifice. Il dit qu'il faut coupper deux gazons au mois de May couverts de rosée, puis les mettre l'un sur l'autre, ensorte qu'ils se touchent par la partie herbuë. Quelques heures aprés qu'ils auront été sur le bord d'un vivier eschauffez par le soleil, il en sortira une infinité d'anguilles.</note>
+                  <note>On dit proverbialement, Escorcher l'anguille par la queuë, pour dire, Commencer une affaire par où il la faut finir. C'est une anguille de Melun, il crie devant qu'on l'escorche, pour dire, il a peur sans sujet. Ce proverbe vient de ce qu'un nommé l'Anguille bourgeois de Melun, qui representoit en une Comedie le personnage de St. Barthelemy, voyant l'Executeur le couteau à la main qui faisoit semblant de l'escorcher, se mit à faire un grand cri auparavant qu'il le touchast : ce qu'on trouva si plaisant, que cela a donné cours au Proverbe. On dit aussi, Il y a anguille sous roche, pour dire, Il y a quelque mystere caché sous ce qu'il dit, ou sous ce qu'il fait. Il s'eschappe comme une anguille, pour dire, Il disparoist sans qu'on le puisse retenir, sans qu'on s'en apperçoive. On dit encore, Rompre l'anguille au genou, pour, Se moquer des gens qui prennent une maniere de faire quelque affaire qui n'est pas propre pour y reüssir. On disoit autrefois, Rompre l'andouille au genou, dans le même sens. </note>
+               </entry>
+               
+               <entry xml:lang="fr" xml:id="Anguillers">
+                  <form><orth>ANGUILLERS</orth></form><pc>.</pc>
+                  <usg type="terme" ana="#marine">Terme de Marine<pc>.</pc></usg>
+                  <def>Canaux qui regnent à fonds de cale à costé de la carlingue pour conduire les eaux à la pompe.</def>
+               </entry>
+               
+               <entry xml:lang="fr" xml:id="Angulaire">
+                  <form><orth>ANGULAIRE</orth></form><pc>.</pc>
+                  <gramGrp><pos expand="adjectif">adj.</pos><gen expand="feminin">fem.</gen></gramGrp>
+                  <def>Qui a des angles.</def>
+                  <note>Il ne se dit gueres que de la pierre fondamentale qu'on met à la premiere assise d'un bastiment, qui fait l'angle ou le coin du bastiment.</note>
+                  <note>On dit figurément en termes de l'Ecriture, que Jesus-Christ est la Pierre Angulaire de l'Eglise : ce qui est fondé sur la Prophetie, <foreign>Lapidem quem reprobaverunt<pc>,</pc> factus est in capite anguli</foreign>. </note>
+               </entry>
+            </div>
+               
+               <div n="ANI">
+                  <entry xml:lang="fr" xml:id="Anille">
+                     <form><orth>ANILLE</orth></form><pc>.</pc>
+                     <gramGrp><pos expand="substantif">subst.</pos><gen expand="feminin">fem.</gen></gramGrp>
+                     <usg type="terme" ana="#blason">Terme de Blason<pc>.</pc></usg>
+                     <def>C'est une figure en forme de deux crochets adossez &amp; liez ensemble, dont chacun a la figure d'un C, ou d'un sigma Grec.</def>
+                     <note>Il portoit d'azur à une anille d'argent entourée d'une couronne de gueules. Quelques-uns la confondent mal à propos avec celle du fer qui soûtient la meule du moulin. Anille est ainsi nommée, parce que c'étoit d'abord un fer qui se mettoit comme un anneau autour des moyeux pour les fortifier. On a appellé aussi Anilles, des croix ancrées qui sont faites en forme d'anille.</note>
+                     <etym>Autrefois on appelloit aussi Anille, une potence d'estropiez des jambes, ou de vieilles : ce qui est derivé du mot anus.</etym>
+                  </entry>
+               </div>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>
+

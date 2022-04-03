@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eau_minerale>
+    <bouteille n="1">
+        <marque>Cristaline</marque>
+        <code_barre>3274080005003</code_barre>
+        <source>St Cyr la Source</source>
+        <departement>Loiret</departement>
+        <quantité>150 cl</quantité>
+        <composition>
+            <Ph>7.45</Ph>
+            <ions_par_litre>
+                <positifs>
+                    <calcium>71 mg</calcium>
+                    <magnesium>5.5 mg</magnesium>
+                </positifs>
+                <negatifs>
+                    <chlorure>20 mg</chlorure>
+                    <nitrate>1 mg</nitrate>
+                </negatifs>
+            </ions_par_litre>
+            <résidus>fer</résidus>
+        </composition>
+    </bouteille>
+    
+    <bouteille n="2">
+        <marque>Cristaline</marque>
+        <code_barre>3268840001008</code_barre>
+        <source>Aurèle</source>
+        <departement>Alpes Maritimes</departement>
+        <quantité>50 cl</quantité>
+        <composition>
+            <Ph>7.4</Ph>
+            <ions_par_litre>
+                <positifs>
+                    <calcium>98 mg</calcium>
+                    <magnesium>4 mg</magnesium>
+                </positifs>
+                <negatifs>
+                    <chlorure>3,6 mg</chlorure>
+                    <nitrate>2 mg</nitrate>
+                </negatifs>
+            </ions_par_litre>
+        </composition>
+    </bouteille>
+    
+    <bouteille n="3">
+        <marque>Volvic</marque>
+        <code_barre>3057640117008</code_barre>
+        <source>Volvic</source>
+        <departement>Puy-de-Dôme</departement>
+        <quantité>50 cl</quantité>
+        <composition>
+            <Ph>7</Ph>
+            <ions_par_litre>
+                <positifs>
+                    <calcium>11,5 mg</calcium>
+                    <magnesium>8,0 mg</magnesium>
+                </positifs>
+                <negatifs>
+                    <chlorure>13,5 mg</chlorure>
+                    <nitrate>6,3 mg</nitrate>
+                </negatifs>
+            </ions_par_litre>
+            <résidus>silice</résidus>
+        </composition>
+    </bouteille>
+</eau_minerale>

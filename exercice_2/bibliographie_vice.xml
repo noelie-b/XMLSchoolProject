@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bibliographie SYSTEM "bibliographie_vice.dtd">
+
+<bibliographie>
+    <livre>
+        <titre>Harry potter</titre>
+        <auteur>J.K. Rolling</auteur>
+        <tomes>
+            <tome numero="1" nb_pages="308" soustitre="Harry Potter à l'école des sorciers"/>
+            <tome numero="2" nb_pages="364" soustitre="Harry Potter et la Chambre des secrets"/>
+            <tome numero="3" nb_pages="474" soustitre="Harry Potter et le Prisonnier d'Azkaban"/>
+            <tome numero="4" nb_pages="656" soustitre="Harry Potter et la Coupe de feu"/>
+            <tome numero="5" nb_pages="984" soustitre="Harry Potter et l'Ordre du Phénix"/>
+            <tome numero="6" nb_pages="720" soustitre="Harry Potter et le Prince de sang-mêlé"/>
+            <tome numero="7" nb_pages="816" soustitre="Harry Potter et les Reliques de la Mort"/>
+        </tomes>
+        <edition>
+            <editeur>Bloomsbury</editeur>
+            <lieu_edition>Londres</lieu_edition>
+            <lieu_impression>Londres</lieu_impression>
+            <ISBN>0747538492</ISBN>
+        </edition>
+    </livre>
+    
+    <article>
+        <titre>Harry Potter et les Reliques de la Mort</titre>
+        <auteur>Le Monde avec AFP</auteur>
+        <references>
+            <journal nom_journal="Le Monde"/>
+            <num_pages>3-7</num_pages>
+            <num_journal>5</num_journal>
+        </references>
+        <avis>Les débats autour du « passe sanitaire » ont également permis aux partisans de la réouverture des discothèques de donner de la voix. Christophe Blanchet (MoDem) a demandé que le dispositif puisse servir de sésame pour rouvrir des établissements contraints à la fermeture depuis quatorze mois. Là aussi sans succès en raison du risque de contamination, jugé trop « important ».</avis>
+    </article>
+</bibliographie>
+
