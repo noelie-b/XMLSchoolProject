@@ -1,0 +1,18 @@
+Mots possèdant la racine "citoy" : 
+
+Nombre de mots :  citoyens 73
+Nombre de mots :  citoyen 27
+Nombre de mots :  concitoyens 6
+Nombre de mots :  citoyenne 3
+Nombre de mots :  citoyennes 2
+Nombre total de mots avec citoy :  111
+
+Mots possèdent la racine "patriot" : 
+
+Nombre de mots :  patriotes 152
+Nombre de mots :  patriotisme 20
+Nombre de mots :  patriote 17
+Nombre de mots :  patriotiques 9
+Nombre de mots :  patriotique 7
+Nombre total de mots avec patriot : 205
+
