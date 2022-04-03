@@ -1,0 +1,184 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+      <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,500">
+      <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+      <link rel="stylesheet" type="text/css" href="css/style.css">
+      <link rel="stylesheet" href="css/animate.css">
+   </head>
+   <body>
+      <div class="header-div">
+         <nav class="navbar navbar-default">
+            <div class="container">
+               <div class="navbar-header logo-div bounceInLeft wow" data-wow-duration="2s"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button></div>
+               <div class="collapse navbar-collapse top-right-menu-ul bounceInRight wow" id="bs-example-navbar-collapse-1" data-wow-duration="4s">
+                  <ul class="nav navbar-nav navbar-right">
+                     <li><a href="1.html">Exercice 1</a></li>
+                     <li><a href="2.html">Exercice 2</a></li>
+                     <li><a href="3.html">Exercice 3</a></li>
+                     <li><a href="5.html">Exercice 5</a></li>
+                     <li><a href="8.html">Exercice 8</a></li>
+                     <li><a href="14.html">Exercice 14</a></li>
+                     <li><a href="15.html">Exercice 15</a></li>
+                  </ul>
+               </div>
+            </div>
+         </nav>
+         <div class="container wow bounceInDown" data-wow-duration="5s">
+            <div class="row">
+               <div class="col-md-offset-2 col-md-8 text-center slide-text">
+                  <h1>Exercice 14</h1>
+                  <p>Cet exercice est en relation avec le projet encadré, puisqu'il s'agit de manipuler
+                     des données issues 
+                     des fils RSS du Monde. Il s'agit de faire ressortir du contenu textuel, soit en passant
+                     par des feuilles de styles, soit par
+                     le langage de requête Xquery. Cet exercice est divisé en deux parties. Dans la première
+                     partie, nous utilisons la rubrique 
+                     "A la Une" étiquetée par Treetagger, et dans la seconde, le même contenu textuel,
+                     mais étiqueté par Udpipe.
+                  </p>
+               </div>
+               <div class="col-md-offset-2"></div>
+            </div>
+         </div>
+      </div>
+      <div class="container" id="features">
+         <div class="row">
+            <div class="col-md-12">
+               <div class="main_heading"><font size="3pt">
+                     <p align="center"></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="5">
+                     <p align="center">Partie 1 : Fichiers de travail : rubrique « A la Une » 2017 étiquetée avec treetagger</p></font><br><font size="5">
+                     <p align="center">XSLT</p></font><font size="3pt">
+                     <p align="justify">1. Construire une feuille de styles pour afficher les contenus étiquetés avec TreeTagger</p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_1/xslt/14_1.xsl" download="exercice_14/14_1/xslt/14_1.xsl">Feuille de style XSLT</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_1/xslt/resultat_xslt_1.html" download="exercice_14/14_1/xslt/resultat_xslt_1.html">Sortie au format HTML</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="3pt">
+                     <p align="justify">2. Construire des feuilles de style pour extraire (au format TXT) au moins 3 patrons
+                        morphosyntaxiques (de longueurs différentes) sur les mêmes fichiers
+                     </p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_1/xslt/14_2.xsl" download="exercice_14/14_1/xslt/14_2.xsl">Feuille de style XSLT</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_1/xslt/resultat_xslt_2.txt" download="exercice_14/14_1/xslt/resultat_xslt_2.txt">Sortie au format TXT</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="3pt">
+                     <p align="justify">3. Construire une feuille de styles pour afficher les contenus étiquetés avec TreeTagger
+                        en mettant au jour un patron morphosyntaxique. Ci-dessous le patron NOM ADJ :
+                     </p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_1/xslt/14_3.xsl" download="exercice_14/14_1/xslt/14_3.xsl">Feuille de style XSLT</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_1/xslt/resultat_xslt_3.html" download="exercice_14/14_1/xslt/resultat_xslt_3.html">Sortie au format HTML</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="4">
+                     <p align="center">XQuery (via BaseX)</p></font><br><font size="3pt">
+                     <p align="justify">1. Construire une requête pour extraire les contenus textuels des titres</p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_1/xquery/1.xq" download="exercice_14/14_1/xquery/1.xq">Fichier de requête Xquery</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_1/xquery/resultat1.xml.txt" download="exercice_14/14_1/xquery/resultat1.xml.txt">Sortie au format TXT</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="3pt">
+                     <p align="justify">2. Construire une requête pour extraire les contenus textuels des descriptions</p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_1/xquery/2.xq" download="exercice_14/14_1/xquery/2.xq">Fichier de requête Xquery</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_1/xquery/resultat2.xml.txt" download="exercice_14/14_1/xquery/resultat2.xml.txt">Sortie au format TXT</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="3pt">
+                     <p align="justify">3. Construire une requête pour extraire les contenus textuels des titres ET des descriptions</p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_1/xquery/3.xq" download="exercice_14/14_1/xquery/3.xq">Fichier de requête Xquery</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_1/xquery/resultat3.xml.txt" download="exercice_14/14_1/xquery/resultat3.xml.txt">Sortie au format TXT</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="3pt">
+                     <p align="justify">4. Construire une requête pour extraire les patrons morpho-syntaxiques NOM ADJ</p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_1/xquery/4.xq" download="exercice_14/14_1/xquery/4.xq">Fichier de requête Xquery</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_1/xquery/resultat4.xml.txt" download="exercice_14/14_1/xquery/resultat4.xml.txt">Sortie au format TXT</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="3pt">
+                     <p align="justify">5. Construire une requête pour extraire les patrons morpho-syntaxiques NOM PRP NOM</p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_1/xquery/5.xq" download="exercice_14/14_1/xquery/5.xq">Fichier de requête Xquery</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_1/xquery/resultat5.xml.txt" download="exercice_14/14_1/xquery/resultat5.xml.txt">Sortie au format TXT</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="5">
+                     <p align="center">Partie 2 : Fichiers de travail : fichiers étiquetés avec Udpipe dans le cours Projet
+                        Encadré
+                     </p></font><br><font size="5">
+                     <p align="center">XSLT</p></font><br><font size="3pt">
+                     <p align="justify">1. Construire une feuille de styles pour afficher les contenus étiquetés des « titres
+                        »
+                        uniquement
+                     </p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xslt/partie2_xslt1.xsl" download="exercice_14/14_2/xslt/partie2_xslt1.xsl">Feuille de style XSLT</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xslt/res1.html" download="exercice_14/14_2/xslt/res1.html">Sortie au format HTML</a></p></font><div class="text-center"><span class="underline"></span></div><br><font size="3pt">
+                     <p align="justify">2. Peut-on envisager de construire une feuille de styles pour afficher chaque « titre
+                        » en regard
+                        de sa « description » : par exemple un tableau avec 2 colonnes, à gauche les titres
+                        et à droite
+                        les descriptions (un alignement en somme) ? si cela n’est pas possible directement,
+                        quel est
+                        l’alignement minimal que l’on peut mettre en oeuvre ? Construire cet alignement minimal…
+                     </p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xslt/partie2_xslt2.xsl" download="exercice_14/14_2/xslt/partie2_xslt2.xsl">Feuille de style XSLT</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xslt/res2.html" download="exercice_14/14_2/xslt/res2.html">Sortie au format HTML</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="3pt">
+                     <p align="justify">3. Construire des feuilles de style pour extraire (au format TXT) au moins 3 patrons
+                        morphosyntaxiques
+                        (de longueurs différentes) sur les « titres » uniquement puis sur les
+                        « descriptions » uniquement
+                     </p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xslt/partie2_xslt3_patrons_titre.xsl" download="exercice_14/14_2/xslt/partie2_xslt3_patrons_titre.xsl">Feuille de style XSLT</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xslt/res3_titre.txt" download="exercice_14/14_2/xslt/res3_titre.txt">Sortie au format TXT</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xslt/partie2_xslt3_patrons_description.xsl" download="exercice_14/14_2/xslt/partie2_xslt3_patrons_description.xsl">Feuille de style XSLT</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xslt/res3_description.txt" download="exercice_14/14_2/xslt/res3_description.txt">Sortie au format TXT</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="3pt">
+                     <p align="justify">4. Construire une feuille de styles pour afficher les contenus étiquetés en mettant
+                        au jour un
+                        patron morphosyntaxique sur les « titres » uniquement puis sur les « descriptions
+                        »
+                        uniquement
+                     </p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xslt/partie2_xslt4_titre.xsl" download="exercice_14/14_2/xslt/partie2_xslt4_titre.xsl">Feuille de style XSLT</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xslt/res4_titre.html" download="exercice_14/14_2/xslt/res4_titre.html">Sortie au format HTML</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xslt/partie2_xslt4_description.xsl" download="exercice_14/14_2/xslt/partie2_xslt4_description.xsl">Feuille de style XSLT</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xslt/res4_description.html" download="exercice_14/14_2/xslt/res4_description.html">Sortie au format HTML</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="3pt">
+                     <p align="justify">5. Construire une feuille de styles pour extraire (au format TXT) les items en relation
+                        de
+                        dépendance syntaxique de type OBJ (les classer et les compter). Essayer de tenir compte
+                        de
+                        la différence titre/description
+                     </p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xslt/partie2_xslt5.xsl" download="exercice_14/14_2/xslt/partie2_xslt5.xsl">Feuille de style XSLT</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xslt/res5.txt" download="exercice_14/14_2/xslt/res5.txt">Sortie au format TXT</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="3pt">
+                     <p align="justify">6. Construire une feuille de styles pour extraire la liste des POS en relation de
+                        dépendance
+                        syntaxique de type OBJ (les classer et les compter)
+                     </p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xslt/partie2_xslt6.xsl" download="exercice_14/14_2/xslt/partie2_xslt6.xsl">Feuille de style XSLT</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xslt/res6.txt" download="exercice_14/14_2/xslt/res6.txt">Sortie au format TXT</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="5">
+                     <p align="center">XQuery (via BaseX)</p></font><br><font size="3pt">
+                     <p align="justify">1. Construire une requête pour compter le nombre de titres, le nombre de descriptions.</p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xquery/xq1.xq" download="exercice_14/14_2/xquery/xq1.xq">Fichier de requête Xquery</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xquery/resultat1.txt" download="exercice_14/14_2/xquery/resultat1.txt">Sortie au format TXT</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="3pt">
+                     <p align="justify">2. Construire une requête pour extraire les contenus textuels des « titres »</p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xquery/xq2.xq" download="exercice_14/14_2/xquery/xq2.xq">Fichier de requête Xquery</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xquery/resultat2.txt" download="exercice_14/14_2/xquery/resultat2.txt">Sortie au format TXT</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="3pt">
+                     <p align="justify">3. Construire une requête pour extraire les contenus textuels des « descriptions »</p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xquery/xq3.xq" download="exercice_14/14_2/xquery/xq3.xq">Fichier de requête Xquery</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xquery/resultat3.txt" download="exercice_14/14_2/xquery/resultat3.txt">Sortie au format TXT</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="3pt">
+                     <p align="justify">4. Construire une requête pour extraire les contenus textuels des titres ET des descriptions</p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xquery/xq4.xq" download="exercice_14/14_2/xquery/xq4.xq">Fichier de requête Xquery</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xquery/resultat4.txt" download="exercice_14/14_2/xquery/resultat4.txt">Sortie au format TXT</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="3pt">
+                     <p align="justify">5. Construire une requête pour extraire au moins 3 patrons morpho-syntaxiques (de
+                        longueurs différentes)
+                     </p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xquery/xq5_2p.xq" download="exercice_14/14_2/xquery/xq5_2p.xq">Fichier de requête Xquery</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xquery/resultat5_p2.txt" download="exercice_14/14_2/xquery/resultat5_p2.txt">Sortie au format TXT</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xquery/xq5_3p.xq" download="exercice_14/14_2/xquery/xq5_3p.xq">Fichier de requête Xquery</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xquery/resultat5_3p.txt" download="exercice_14/14_2/xquery/resultat5_3p.txt">Sortie au format TXT</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xquery/xq5_4p.xq" download="exercice_14/14_2/xquery/xq5_4p.xq">Fichier de requête Xquery</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xquery/resultat5_4p.txt" download="exercice_14/14_2/xquery/resultat5_4p.txt">Sortie au format TXT</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="3pt">
+                     <p align="justify">6. Construire une requête pour extraire les items portant une relation de dépendance
+                        syntaxique de type OBJ
+                     </p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xquery/xq6.xq" download="exercice_14/14_2/xquery/rxq6.xq">Fichier de requête Xquery</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xquery/resultat6.txt" download="exercice_14/14_2/xquery/resultat6.txt">Sortie au format TXT</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="3pt">
+                     <p align="justify">7. Construire une requête pour extraire les items en relation de dépendance syntaxique
+                        de type SUB (on affichera les formes ou les lemmes connectés par cette relation)
+                     </p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xquery/xq7.xq" download="exercice_14/14_2/xquery/xq7.xq">Fichier de requête Xquery</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_14/14_2/xquery/resultat7.txt" download="exercice_14/14_2/xquery/resultat7.txt">Sortie au format TXT</a></p></font><br><br><div class="text-center"><span class="underline"></span></div><br></div>
+            </div>
+         </div>
+      </div>
+      <div class="container" id="About">
+         <div class="row">
+            <div class="col-md-12">
+               <div class="main_heading">
+                  <h3 align="center">A propos</h3>
+                  <h5 align="center">noelie-b@live.fr</h5>
+                  <h5 align="center">M1 TAL INALCO (2020 - 2021)</h5>
+                  <div class="text-center"><span class="underline"></span></div>
+               </div>
+            </div>
+         </div>
+      </div><script type="text/javascript" src="js/jquery-main.js"></script><script type="text/javascript" src="js/bootstrap.min.js"></script><script src="js/wow.min.js"></script><script>
+                    new WOW().init();
+                </script></body>
+</html>

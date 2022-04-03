@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webpage>
+    <exercice n="1">
+        <titre>Exercice 1</titre>
+        <commentaire>Les documents au fomat XML permettent de structurer de l'information.
+        L'exercice suivant permet de comprendre comment est structuré un fichier XML, 
+        et saisir sa structure logique. Le texte utilisé pour réaliser cet exercice présente
+        différentes eaux minérales en bouteille. Le but est de mettre 
+        en évidence sa structure logique sans forcément passer par une mise en forme XML.</commentaire>
+        
+        <texte>Voici le texte à traiter</texte>
+        <xml>Et voici le résultat !</xml>
+        <image>Tableau</image>
+        <telechargement>text</telechargement>
+        <telechargement>sortie</telechargement>
+    </exercice>
+    
+    <exercice n="2">
+      <titre>Exercice 2</titre>
+        <commentaire>Cet exercice consiste à construire une DTD, et ensuite de la modifier.
+        Ce Document Type Definition a été constitué à partir d'une bibliographie contenant les livres
+        et des articles.</commentaire>
+        <partie>Partie 1</partie>
+        <consigne>Rédiger une DTD pour une bibliographie. Tester cette DTD avec un fichier XML que l'on écrira ex-nihilo et validera.</consigne>
+        <partie>Partie 2 : Modifier la DTD précédente...</partie>
+        <consigne n="1">...en ajoutant un attribut optionnel soustitre à l'élément titre</consigne>
+        <consigne n="2">...en faisant de l'élément tome un élément vide et en lui ajoutant un attribut requis nb_pages
+            et un attribut optionnel soustitre</consigne>
+        <consigne n="3">...en faisant de l'élément nom_journal un attribut de l'élément journal et en lui donnant
+            comme valeur par défaut Feuille de Chou</consigne>
+        <consigne n="4">...en faisant de l'élément annee un attribut de type énuméré, prenant comme valeurs
+            possibles 2000, 2001, 2002, "avant_2000" et "inconnue" et proposant comme valeur par
+            défaut inconnue.</consigne>
+    </exercice>
+    
+    <exercice n="3">
+        <titre>Exercice 3</titre>
+        <commentaire>Le but de cet exercice est de créer un fichier XML/TEI à partir d'un document
+        texte obtenu par océrisation du Dictionnaire Universel d'Antoine Furetière. Nous avions
+        chacun 5 pages de la lettre A du dictionnaire dictionnaire à devoir recréer sous la forme d'une TEI. 
+        La partie m'étant destinée commence par le mot Anathème et finit par la définition d'Anille.</commentaire>
+        <image>Les fichiers utilisés pour créer cette TEI sont les pages scannées du Dictionnaire issus de Gallica,
+        et le texte océrisé.</image>
+        <telechargement>Fichier XML Dictionnaire de Furetière TEI</telechargement>
+        <telechargement>Dictionnaire océrisé au format TXT</telechargement>
+        
+    </exercice>
+    <exercice n="4">
+        <titre>Exercice 5</titre>
+        <commentaire>Cet exercice introduit l'usage des feuilles de style XSLT (eXtensible Stylesheet Language Transformations).
+        Il s'agit d'un langage de transformation XML, et permet notamment de transformer un document XML dans un autre format,
+        comme du texte ou du html. Le but de cet exercice est de transformer le fichier Duchn.xml grâce à des feuilles de style XSLT.</commentaire>
+        <image>Voici ci-dessous une capture d'écran du fichier à transformer.</image>
+        <consigne n="1">1. Définir une feuille de style dont le résultat est un document HTML et donnant à voir
+            uniquement le texte. On essaiera de formater au mieux l’affichage (séparer les mots… saut
+            de ligne après paragraphe…)</consigne>
+        <consigne n="2">2. Définir une feuille de style dont le résultat est un document HTML et donnant à voir
+            uniquement le texte en surlignant les mots dont le lemme est « aristocrate » ou « patriote »
+            (stylage à définir par vous pour marquer le soulignement visé).</consigne>
+
+        <consigne n="3">3. Définir une feuille de style dont le résultat est un document TXT contenant la liste des mots
+            contenant la séquence « citoy », puis la séquence « patriot » ; compter aussi la fréquence de
+            chacun des mots</consigne>
+
+        <consigne n="4">4. Définir une feuille de style dont le résultat est un document TXT contenant la liste des
+            catégories ; compter aussi la fréquence de chacune</consigne>
+
+        <consigne n="5">5. Définir une feuille de style permettant d’afficher le texte en surlignant les mots de
+            catégories NOM ou ADJ (stylage à définir par vous pour marquer le soulignement visé).</consigne>
+
+        <consigne n="6">6. Définir une feuille de style dont le résultat est un document TXT contenant la liste des
+            séquences NOM ADJ</consigne>
+
+        <consigne n="7">7. Idem avec NOM PREP NOM</consigne>
+
+        <telechargement>Feuille de style XSLT</telechargement>
+        <telechargement>Sortie au format HTML</telechargement>
+        <telechargement>Sortie au format TXT</telechargement>
+        <telechargement>Fichier DTD</telechargement>
+        <telechargement>Fichier de requête Xquery</telechargement>
+        <telechargement>Fichier XML</telechargement>
+    </exercice>
+    
+    <exercice n="5">
+        <titre>Exercice 14</titre>
+        <commentaire>Cet exercice est en relation avec le projet encadré, puisqu'il s'agit de manipuler des données issues 
+        des fils RSS du Monde. Il s'agit de faire ressortir du contenu textuel, soit en passant par des feuilles de styles, soit par
+        le langage de requête Xquery. Cet exercice est divisé en deux parties. Dans la première partie, nous utilisons la rubrique 
+        "A la Une" étiquetée par Treetagger, et dans la seconde, le même contenu textuel, mais étiqueté par Udpipe.</commentaire>
+        <image></image>
+        <partie>Partie 1 : Fichiers de travail : rubrique « A la Une » 2017 étiquetée avec treetagger</partie>
+            <souspartie>XSLT</souspartie>
+                <consigne n="1">1. Construire une feuille de styles pour afficher les contenus étiquetés avec TreeTagger</consigne>
+                <consigne n="2">2. Construire des feuilles de style pour extraire (au format TXT) au moins 3 patrons morphosyntaxiques (de longueurs différentes) sur les mêmes fichiers</consigne>
+                <consigne n="3">3. Construire une feuille de styles pour afficher les contenus étiquetés avec TreeTagger en mettant au jour un patron morphosyntaxique. Ci-dessous le patron NOM ADJ :</consigne>
+                <image></image>
+            <souspartie>XQuery (via BaseX)</souspartie>
+                <consigne n="1">1. Construire une requête pour extraire les contenus textuels des titres</consigne>
+                <consigne n="2">2. Construire une requête pour extraire les contenus textuels des descriptions</consigne>
+                <consigne n="3">3. Construire une requête pour extraire les contenus textuels des titres ET des descriptions</consigne>
+                <consigne n="4">4. Construire une requête pour extraire les patrons morpho-syntaxiques NOM ADJ</consigne>
+                <consigne n="5">5. Construire une requête pour extraire les patrons morpho-syntaxiques NOM PRP NOM</consigne>
+        
+        
+        <partie>Partie 2 : Fichiers de travail : fichiers étiquetés avec Udpipe dans le cours Projet Encadré</partie>
+            <souspartie>XSLT</souspartie>
+                <consigne n="1">1. Construire une feuille de styles pour afficher les contenus étiquetés des « titres »
+            uniquement</consigne>
+                <consigne n="2">2. Peut-on envisager de construire une feuille de styles pour afficher chaque « titre » en regard
+            de sa « description » : par exemple un tableau avec 2 colonnes, à gauche les titres et à droite
+            les descriptions (un alignement en somme) ? si cela n’est pas possible directement, quel est
+            l’alignement minimal que l’on peut mettre en oeuvre ? Construire cet alignement minimal…</consigne>
+                <consigne n="3">3. Construire des feuilles de style pour extraire (au format TXT) au moins 3 patrons morphosyntaxiques
+            (de longueurs différentes) sur les « titres » uniquement puis sur les
+            « descriptions » uniquement</consigne>
+                <consigne n="4">4. Construire une feuille de styles pour afficher les contenus étiquetés en mettant au jour un
+            patron morphosyntaxique sur les « titres » uniquement puis sur les « descriptions »
+            uniquement</consigne>
+                <consigne n="5">5. Construire une feuille de styles pour extraire (au format TXT) les items en relation de
+            dépendance syntaxique de type OBJ (les classer et les compter). Essayer de tenir compte de
+            la différence titre/description</consigne>
+                <consigne n="6">6. Construire une feuille de styles pour extraire la liste des POS en relation de dépendance
+            syntaxique de type OBJ (les classer et les compter)</consigne>
+                <image></image>
+            <souspartie>XQuery (via BaseX)</souspartie>
+                <consigne n="1">1. Construire une requête pour compter le nombre de titres, le nombre de descriptions.</consigne>
+            <consigne n="2">2. Construire une requête pour extraire les contenus textuels des « titres »</consigne>
+            <consigne n="3">3. Construire une requête pour extraire les contenus textuels des « descriptions »</consigne>
+            <consigne n="4">4. Construire une requête pour extraire les contenus textuels des titres ET des descriptions</consigne>
+            <consigne n="5">5. Construire une requête pour extraire au moins 3 patrons morpho-syntaxiques (de longueurs différentes)</consigne>
+            <consigne n="6">6. Construire une requête pour extraire les items portant une relation de dépendance syntaxique de type OBJ</consigne>
+            <consigne n="7">7. Construire une requête pour extraire les items en relation de dépendance syntaxique de type SUB (on affichera les formes ou les lemmes connectés par cette relation)</consigne>
+            
+    </exercice>
+    <exercice n="6">
+        <titre>Exercice 15</titre>
+            <commentaire>Le fichier de départ pour cet exercice est la base TrameurFromRhapsodie. Il s'agit d'un texte annoté au format XML.</commentaire>
+            <image>Structure du fichier de départ</image>
+            <commentaire>Comme pour l'exercice 14, le but est de faire ressortir certains contenus textuels grâce à des feuilles de style XSLT et des requêtes Xquery, le tout au format HTML ou TXT</commentaire>
+                <partie>Partie 1 : XSLT</partie>
+                    <consigne n="1">1. Construire une feuille de styles pour afficher uniquement le texte (sortie TXT)</consigne>
+        <consigne n="2">2. Construire une feuille de styles pour afficher (au format HTML) le texte en insérant sur
+            chaque item sa POS</consigne>
+                    <consigne n="3">3. Construire une feuille de styles pour extraire (en format TXT) au moins 2 patrons morphosyntaxiques de longueurs différentes</consigne>        
+                    <consigne n="4">4. Construire une feuille de styles pour extraire (au format TXT) les items en relation de dépendance syntaxique de type SUJET (les classer et les compter)</consigne>
+                    <remarque>Pour cet exercice, nous avons dans un premier temps crée une feuille de style xslt qui extrait les items, et ensuite nous avons utilisé
+                    la commande Unix ci-dessous afin de compter les occurrences. De plus, nous avons dû utiliser l'échantillon, car nous avons eu des erreurs concernant un dépassement de mémoire vive par xsltproc.</remarque>
+                        <commande>xsltproc Trameur_4.xsl baseTrameurFromRhapsodie.xml | sort | uniq -c | sort -gr > Trameur_4.txt</commande>
+                    <consigne n="5">5. Construire une feuille de styles pour extraire la liste des POS en relation de dépendance syntaxique de type SUJET (les classer et les compter)</consigne>
+                    <remarque>Encore une fois, nous avons utilisé en plus de la feuille de style, une commande afin de compter les occurrences de chaque POS.
+                    Cependant, nous avons eu une limite de mémoire vive de la part de XLSTPROC pour cette feuille de style, donc nous avons lancé le traitement sur le fichier echantillon.</remarque>
+                        <commande>xsltproc Trameur_5.xsl baseTrameurFromRhapsodie-echantillon.xml | sort | uniq -c | sort -gr > Trameur_5.txt</commande>
+                <partie>Partie 2 : Xquery (via BaseX)</partie>
+                    <consigne n="1">1. Construire une requête pour extraire les items portant une relation de dépendance syntaxique de type OBJ</consigne>
+                    <image>Requête 1</image>
+                    <consigne n="2">2. Construire une requête pour extraire les items en relation de dépendance syntaxique de type OBJ (on affichera les formes ou les lemmes connectés par cette relation)</consigne>
+                    <image>Requête 2</image>
+    </exercice>
+    
+    <exercice n="7">
+        <titre>Exercice 8</titre>
+        <commentaire>Le fichier de départ pour cet exercice est la base SignaletiqueInfirmierecorpusPREMA00.xml. Le but est 
+            de factoriser les informations sur les infirmières relevant d'une même classe d'ancienneté. Il faudra compléter la
+            feuille de style d'origine et la transformer en un tableau HTML. Le classe d'ancienneté 
+            devra occuper toute la largueur du tableau.
+        </commentaire>
+        <fichier>Feuille de style de départ</fichier>
+        <fichier>Feuille de style transformée</fichier>
+        <fichier>Résultat</fichier>
+
+    </exercice>
+</webpage>
+

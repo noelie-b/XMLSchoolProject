@@ -1,0 +1,119 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+      <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,500">
+      <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+      <link rel="stylesheet" type="text/css" href="css/style.css">
+      <link rel="stylesheet" href="css/animate.css">
+   </head>
+   <body>
+      <div class="header-div">
+         <nav class="navbar navbar-default">
+            <div class="container">
+               <div class="navbar-header logo-div bounceInLeft wow" data-wow-duration="2s"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button></div>
+               <div class="collapse navbar-collapse top-right-menu-ul bounceInRight wow" id="bs-example-navbar-collapse-1" data-wow-duration="4s">
+                  <ul class="nav navbar-nav navbar-right">
+                     <li><a href="1.html">Exercice 1</a></li>
+                     <li><a href="2.html">Exercice 2</a></li>
+                     <li><a href="3.html">Exercice 3</a></li>
+                     <li><a href="5.html">Exercice 5</a></li>
+                     <li><a href="8.html">Exercice 8</a></li>
+                     <li><a href="14.html">Exercice 14</a></li>
+                     <li><a href="15.html">Exercice 15</a></li>
+                  </ul>
+               </div>
+            </div>
+         </nav>
+         <div class="container wow bounceInDown" data-wow-duration="5s">
+            <div class="row">
+               <div class="col-md-offset-2 col-md-8 text-center slide-text">
+                  <h1>Exercice 15</h1>
+                  <p>Le fichier de départ pour cet exercice est la base TrameurFromRhapsodie. Il s'agit
+                     d'un texte annoté au format XML. Comme pour l'exercice 14, le but est de faire ressortir
+                     certains contenus textuels grâce à des feuilles de style XSLT et des requêtes Xquery,
+                     le tout au format HTML ou TXT
+                  </p>
+               </div>
+               <div class="col-md-offset-2"></div>
+            </div>
+         </div>
+      </div>
+      <div class="container" id="features">
+         <div class="row">
+            <div class="col-md-12">
+               <div class="main_heading"><font size="3pt">
+                     <p align="center">Structure du fichier de départ</p></font><br><img src="images/exo_15.PNG" class="center"><div class="text-center"><span class="underline"></span></div><br><font size="5">
+                     <p align="center">Partie 1 : XSLT</p></font><font size="3pt">
+                     <p align="justify">1. Construire une feuille de styles pour afficher uniquement le texte (sortie TXT)</p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_15/Trameur_1.xsl" download="exercice_15/Trameur_1.xsl">Feuille de style XSLT</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_15/Trameur_1.txt" download="exercice_15/Trameur_1.txt">Sortie au format TXT</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="3pt">
+                     <p align="justify">2. Construire une feuille de styles pour afficher (au format HTML) le texte en insérant
+                        sur
+                        chaque item sa POS
+                     </p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_15/Trameur_2.xsl" download="exercice_15/Trameur_2.xsl">Feuille de style XSLT</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_15/Trameur_2.html" download="exercice_15/Trameur_2.html">Sortie au format HTML</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="3pt">
+                     <p align="justify">3. Construire une feuille de styles pour extraire (en format TXT) au moins 2 patrons
+                        morphosyntaxiques de longueurs différentes
+                     </p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_15/Trameur_3.xsl" download="exercice_15/Trameur_3.xsl">Feuille de style XSLT</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_15/Trameur_3.txt" download="exercice_15/Trameur_3.txt">Sortie au format TXT</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="3pt">
+                     <p align="justify">4. Construire une feuille de styles pour extraire (au format TXT) les items en relation
+                        de dépendance syntaxique de type SUJET (les classer et les compter)
+                     </p></font><br><font size="3pt">
+                     <p align="justify">Pour cet exercice, nous avons dans un premier temps crée une feuille de style xslt
+                        qui extrait les items, et ensuite nous avons utilisé
+                        la commande Unix ci-dessous afin de compter les occurrences. De plus, nous avons dû
+                        utiliser l'échantillon, car nous avons eu des erreurs concernant un dépassement de
+                        mémoire vive par xsltproc.
+                     </p></font><font size="3pt">
+                     <p align="center">xsltproc Trameur_4.xsl baseTrameurFromRhapsodie.xml | sort | uniq -c | sort -gr &gt;
+                        Trameur_4.txt
+                     </p></font><br><font size="4pt">
+                     <p align="center"><a href="exercice_15/Trameur_4.xsl" download="exercice_15/Trameur_4.xsl">Feuille de style XSLT</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_15/Trameur_4.txt" download="exercice_15/Trameur_4.txt">Sortie au format TXT</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="3pt">
+                     <p align="justify">5. Construire une feuille de styles pour extraire la liste des POS en relation de
+                        dépendance syntaxique de type SUJET (les classer et les compter)
+                     </p></font><br><font size="3pt">
+                     <p align="justify">Encore une fois, nous avons utilisé en plus de la feuille de style, une commande afin
+                        de compter les occurrences de chaque POS.
+                        Cependant, nous avons eu une limite de mémoire vive de la part de XLSTPROC pour cette
+                        feuille de style, donc nous avons lancé le traitement sur le fichier echantillon.
+                     </p></font><font size="3pt">
+                     <p align="center">xsltproc Trameur_5.xsl baseTrameurFromRhapsodie-echantillon.xml | sort | uniq -c |
+                        sort -gr &gt; Trameur_5.txt
+                     </p></font><font size="4pt">
+                     <p align="center"><a href="exercice_15/Trameur_5.xsl" download="exercice_15/Trameur_5.xsl">Feuille de style XSLT</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_15/Trameur_5.txt" download="exercice_15/Trameur_5.txt">Sortie au format TXT</a></p></font><br><div class="text-center"><span class="underline"></span></div><br><font size="5">
+                     <p align="center">Partie 2 : Xquery (via BaseX)</p></font><br><font size="3pt">
+                     <p align="justify">1. Construire une requête pour extraire les items portant une relation de dépendance
+                        syntaxique de type OBJ
+                     </p></font><font size="4pt">
+                     <p align="center">Requête 1</p></font><p></p><img src="images/15.1.PNG" class="center"><br><font size="4pt">
+                     <p align="center"><a href="exercice_15/Question_15.1.xq" download="exercice_15/Question_15.1.xq">Fichier de requête Xquery</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_15/Question_15.1.txt" download="exercice_15/Question_15.1.txt">Sortie au format TXT</a></p></font><div class="text-center"><span class="underline"></span></div><br><font size="3pt">
+                     <p align="justify">2. Construire une requête pour extraire les items en relation de dépendance syntaxique
+                        de type OBJ (on affichera les formes ou les lemmes connectés par cette relation)
+                     </p></font><font size="4pt">
+                     <p align="center">Requête 2</p></font><img src="images/15.2.PNG" class="center"><font size="4pt">
+                     <p align="center"><a href="exercice_15/Question_15.2.xq" download="exercice_15/Question_15.2.xq">Fichier de requête Xquery</a></p></font><font size="4pt">
+                     <p align="center"><a href="exercice_15/Question_15.2.txt" download="exercice_15/Question_15.2.txt">Sortie au format TXT</a></p></font><br><div class="text-center"><span class="underline"></span></div><br></div>
+            </div>
+         </div>
+      </div>
+      <div class="container" id="About">
+         <div class="row">
+            <div class="col-md-12">
+               <div class="main_heading">
+                  <h3 align="center">A propos</h3>
+                  <h5 align="center">noelie-b@live.fr</h5>
+                  <h5 align="center">M1 TAL INALCO (2020 - 2021)</h5>
+                  <div class="text-center"><span class="underline"></span></div>
+               </div>
+            </div>
+         </div>
+      </div><script type="text/javascript" src="js/jquery-main.js"></script><script type="text/javascript" src="js/bootstrap.min.js"></script><script src="js/wow.min.js"></script><script>
+                    new WOW().init();
+                </script></body>
+</html>
